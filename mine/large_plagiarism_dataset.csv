@@ -1,0 +1,884 @@
+source_text,plagiarized_text,label
+The Great Wall of China was built to protect against invasions. Variation 1.,China's Great Wall was constructed to defend against invasions. Alternative 1.,1
+Photosynthesis is the process by which green plants produce their own food using sunlight. Variation 1.,Green plants use sunlight to create their food through photosynthesis. Alternative 1.,1
+"Shakespeare wrote many famous plays, including Hamlet and Othello. Variation 1.",Among Shakespeare's well-known works are Othello and Hamlet. Alternative 1.,1
+Albert Einstein developed the theory of relativity. Variation 1.,The theory of relativity was formulated by Albert Einstein. Alternative 1.,1
+The Pacific Ocean is the largest ocean on Earth. Variation 1.,Earth's biggest ocean is the Pacific. Alternative 1.,1
+Electricity is essential for modern life. Variation 1.,"In today's world, electricity is a necessity. Alternative 1.",1
+Mount Everest is the highest mountain in the world. Variation 1.,The tallest mountain on the planet is Mount Everest. Alternative 1.,1
+Gravity is the force that pulls objects toward the center of the Earth. Variation 1.,Objects are pulled toward Earth's center due to gravity. Alternative 1.,1
+Isaac Newton formulated the laws of motion and universal gravitation. Variation 1.,The principles of motion and gravity were established by Newton. Alternative 1.,1
+Leonardo da Vinci painted the Mona Lisa. Variation 1.,The Mona Lisa was painted by Leonardo da Vinci. Alternative 1.,1
+The Eiffel Tower is a famous landmark in Paris. Variation 1.,Paris is home to the well-known Eiffel Tower. Alternative 1.,1
+"The speed of light in a vacuum is approximately 299,792 kilometers per second. Variation 1.","In a vacuum, light travels at roughly 299,792 km per second. Alternative 1.",1
+The Amazon Rainforest is known for its vast biodiversity. Variation 1.,The Amazon is famous for its rich variety of species. Alternative 1.,1
+Thomas Edison invented the phonograph. Variation 1.,The phonograph was invented by Thomas Edison. Alternative 1.,1
+Bananas are rich in potassium and provide a quick source of energy. Variation 1.,A good source of potassium and energy is found in bananas. Alternative 1.,1
+A day on Mars lasts approximately 24.6 hours. Variation 1.,Mars has a day length of about 24.6 hours. Alternative 1.,1
+"The first manned moon landing was in 1969, conducted by NASA. Variation 1.",NASA's 1969 mission marked the first human landing on the moon. Alternative 1.,1
+The Pyramids of Giza are one of the Seven Wonders of the Ancient World. Variation 1.,One of the ancient Seven Wonders includes the Giza Pyramids. Alternative 1.,1
+A solar eclipse occurs when the Moon passes between the Earth and the Sun. Variation 1.,"When the Moon blocks the Sun from Earth, a solar eclipse happens. Alternative 1.",1
+The Statue of Liberty was a gift from France to the United States. Variation 1.,France presented the U.S. with the Statue of Liberty as a gift. Alternative 1.,1
+The Sahara Desert is the largest hot desert in the world. Variation 1.,The biggest hot desert on Earth is the Sahara. Alternative 1.,1
+The human body has 206 bones. Variation 1.,There are 206 bones in the human skeletal system. Alternative 1.,1
+William Shakespeare was an English playwright and poet. Variation 1.,"Shakespeare, the English poet and playwright, was renowned worldwide. Alternative 1.",1
+The Wright brothers built and flew the first successful airplane. Variation 1.,The first powered flight was achieved by the Wright brothers. Alternative 1.,1
+The capital of Japan is Tokyo. Variation 1.,Tokyo is the capital city of Japan. Alternative 1.,0
+Water boils at 100 degrees Celsius under standard atmospheric pressure. Variation 1.,"At standard pressure, water reaches its boiling point at 100°C. Alternative 1.",0
+The internet has revolutionized global communication. Variation 1.,The way people communicate globally has changed due to the internet. Alternative 1.,0
+The human brain controls all bodily functions. Variation 1.,Bodily functions are regulated by the human brain. Alternative 1.,0
+Gold is a highly valuable and conductive metal. Variation 1.,A highly conductive and valuable metal is gold. Alternative 1.,0
+Renewable energy sources help reduce carbon emissions. Variation 1.,Using renewable sources lowers carbon footprints. Alternative 1.,0
+Mathematics is the foundation of many scientific disciplines. Variation 1.,Many sciences are based on mathematics. Alternative 1.,0
+Healthy eating and regular exercise contribute to overall well-being. Variation 1.,Maintaining health involves diet and exercise. Alternative 1.,0
+Jupiter is the largest planet in our solar system. Variation 1.,The biggest planet in the solar system is Jupiter. Alternative 1.,0
+"A balanced diet includes proteins, carbohydrates, and healthy fats. Variation 1.","Proteins, carbs, and fats make up a balanced diet. Alternative 1.",0
+Venus is the hottest planet in the solar system. Variation 1.,The highest temperatures in the solar system are found on Venus. Alternative 1.,0
+Neil Armstrong was the first person to walk on the Moon. Variation 1.,The first human to step onto the Moon was Neil Armstrong. Alternative 1.,0
+Photosynthesis converts carbon dioxide and water into glucose and oxygen. Variation 1.,"Through photosynthesis, water and CO2 turn into glucose and oxygen. Alternative 1.",0
+The Milky Way is the galaxy that contains our Solar System. Variation 1.,Our Solar System is within the Milky Way galaxy. Alternative 1.,0
+The square root of 144 is 12. Variation 1.,Twelve is the square root of one hundred forty-four. Alternative 1.,0
+Oxygen is essential for human survival. Variation 1.,Humans need oxygen to survive. Alternative 1.,0
+DNA carries genetic information in living organisms. Variation 1.,The genetic code in organisms is stored in DNA. Alternative 1.,0
+The speed of sound varies depending on the medium it travels through. Variation 1.,Sound's speed changes with the medium it moves through. Alternative 1.,0
+The United Nations was founded in 1945 to promote international peace. Variation 1.,International peace efforts led to the founding of the UN in 1945. Alternative 1.,0
+"Rainbows form due to the refraction, dispersion, and reflection of light in water droplets. Variation 1.",Light bends and splits in raindrops to create rainbows. Alternative 1.,0
+The Great Wall of China was built to protect against invasions. Variation 2.,China's Great Wall was constructed to defend against invasions. Alternative 2.,1
+Photosynthesis is the process by which green plants produce their own food using sunlight. Variation 2.,Green plants use sunlight to create their food through photosynthesis. Alternative 2.,1
+"Shakespeare wrote many famous plays, including Hamlet and Othello. Variation 2.",Among Shakespeare's well-known works are Othello and Hamlet. Alternative 2.,1
+Albert Einstein developed the theory of relativity. Variation 2.,The theory of relativity was formulated by Albert Einstein. Alternative 2.,1
+The Pacific Ocean is the largest ocean on Earth. Variation 2.,Earth's biggest ocean is the Pacific. Alternative 2.,1
+Electricity is essential for modern life. Variation 2.,"In today's world, electricity is a necessity. Alternative 2.",1
+Mount Everest is the highest mountain in the world. Variation 2.,The tallest mountain on the planet is Mount Everest. Alternative 2.,1
+Gravity is the force that pulls objects toward the center of the Earth. Variation 2.,Objects are pulled toward Earth's center due to gravity. Alternative 2.,1
+Isaac Newton formulated the laws of motion and universal gravitation. Variation 2.,The principles of motion and gravity were established by Newton. Alternative 2.,1
+Leonardo da Vinci painted the Mona Lisa. Variation 2.,The Mona Lisa was painted by Leonardo da Vinci. Alternative 2.,1
+The Eiffel Tower is a famous landmark in Paris. Variation 2.,Paris is home to the well-known Eiffel Tower. Alternative 2.,1
+"The speed of light in a vacuum is approximately 299,792 kilometers per second. Variation 2.","In a vacuum, light travels at roughly 299,792 km per second. Alternative 2.",1
+The Amazon Rainforest is known for its vast biodiversity. Variation 2.,The Amazon is famous for its rich variety of species. Alternative 2.,1
+Thomas Edison invented the phonograph. Variation 2.,The phonograph was invented by Thomas Edison. Alternative 2.,1
+Bananas are rich in potassium and provide a quick source of energy. Variation 2.,A good source of potassium and energy is found in bananas. Alternative 2.,1
+A day on Mars lasts approximately 24.6 hours. Variation 2.,Mars has a day length of about 24.6 hours. Alternative 2.,1
+"The first manned moon landing was in 1969, conducted by NASA. Variation 2.",NASA's 1969 mission marked the first human landing on the moon. Alternative 2.,1
+The Pyramids of Giza are one of the Seven Wonders of the Ancient World. Variation 2.,One of the ancient Seven Wonders includes the Giza Pyramids. Alternative 2.,1
+A solar eclipse occurs when the Moon passes between the Earth and the Sun. Variation 2.,"When the Moon blocks the Sun from Earth, a solar eclipse happens. Alternative 2.",1
+The Statue of Liberty was a gift from France to the United States. Variation 2.,France presented the U.S. with the Statue of Liberty as a gift. Alternative 2.,1
+The Sahara Desert is the largest hot desert in the world. Variation 2.,The biggest hot desert on Earth is the Sahara. Alternative 2.,1
+The human body has 206 bones. Variation 2.,There are 206 bones in the human skeletal system. Alternative 2.,1
+William Shakespeare was an English playwright and poet. Variation 2.,"Shakespeare, the English poet and playwright, was renowned worldwide. Alternative 2.",1
+The Wright brothers built and flew the first successful airplane. Variation 2.,The first powered flight was achieved by the Wright brothers. Alternative 2.,1
+The capital of Japan is Tokyo. Variation 2.,Tokyo is the capital city of Japan. Alternative 2.,0
+Water boils at 100 degrees Celsius under standard atmospheric pressure. Variation 2.,"At standard pressure, water reaches its boiling point at 100°C. Alternative 2.",0
+The internet has revolutionized global communication. Variation 2.,The way people communicate globally has changed due to the internet. Alternative 2.,0
+The human brain controls all bodily functions. Variation 2.,Bodily functions are regulated by the human brain. Alternative 2.,0
+Gold is a highly valuable and conductive metal. Variation 2.,A highly conductive and valuable metal is gold. Alternative 2.,0
+Renewable energy sources help reduce carbon emissions. Variation 2.,Using renewable sources lowers carbon footprints. Alternative 2.,0
+Mathematics is the foundation of many scientific disciplines. Variation 2.,Many sciences are based on mathematics. Alternative 2.,0
+Healthy eating and regular exercise contribute to overall well-being. Variation 2.,Maintaining health involves diet and exercise. Alternative 2.,0
+Jupiter is the largest planet in our solar system. Variation 2.,The biggest planet in the solar system is Jupiter. Alternative 2.,0
+"A balanced diet includes proteins, carbohydrates, and healthy fats. Variation 2.","Proteins, carbs, and fats make up a balanced diet. Alternative 2.",0
+Venus is the hottest planet in the solar system. Variation 2.,The highest temperatures in the solar system are found on Venus. Alternative 2.,0
+Neil Armstrong was the first person to walk on the Moon. Variation 2.,The first human to step onto the Moon was Neil Armstrong. Alternative 2.,0
+Photosynthesis converts carbon dioxide and water into glucose and oxygen. Variation 2.,"Through photosynthesis, water and CO2 turn into glucose and oxygen. Alternative 2.",0
+The Milky Way is the galaxy that contains our Solar System. Variation 2.,Our Solar System is within the Milky Way galaxy. Alternative 2.,0
+The square root of 144 is 12. Variation 2.,Twelve is the square root of one hundred forty-four. Alternative 2.,0
+Oxygen is essential for human survival. Variation 2.,Humans need oxygen to survive. Alternative 2.,0
+DNA carries genetic information in living organisms. Variation 2.,The genetic code in organisms is stored in DNA. Alternative 2.,0
+The speed of sound varies depending on the medium it travels through. Variation 2.,Sound's speed changes with the medium it moves through. Alternative 2.,0
+The United Nations was founded in 1945 to promote international peace. Variation 2.,International peace efforts led to the founding of the UN in 1945. Alternative 2.,0
+"Rainbows form due to the refraction, dispersion, and reflection of light in water droplets. Variation 2.",Light bends and splits in raindrops to create rainbows. Alternative 2.,0
+The Great Wall of China was built to protect against invasions. Variation 3.,China's Great Wall was constructed to defend against invasions. Alternative 3.,1
+Photosynthesis is the process by which green plants produce their own food using sunlight. Variation 3.,Green plants use sunlight to create their food through photosynthesis. Alternative 3.,1
+"Shakespeare wrote many famous plays, including Hamlet and Othello. Variation 3.",Among Shakespeare's well-known works are Othello and Hamlet. Alternative 3.,1
+Albert Einstein developed the theory of relativity. Variation 3.,The theory of relativity was formulated by Albert Einstein. Alternative 3.,1
+The Pacific Ocean is the largest ocean on Earth. Variation 3.,Earth's biggest ocean is the Pacific. Alternative 3.,1
+Electricity is essential for modern life. Variation 3.,"In today's world, electricity is a necessity. Alternative 3.",1
+Mount Everest is the highest mountain in the world. Variation 3.,The tallest mountain on the planet is Mount Everest. Alternative 3.,1
+Gravity is the force that pulls objects toward the center of the Earth. Variation 3.,Objects are pulled toward Earth's center due to gravity. Alternative 3.,1
+Isaac Newton formulated the laws of motion and universal gravitation. Variation 3.,The principles of motion and gravity were established by Newton. Alternative 3.,1
+Leonardo da Vinci painted the Mona Lisa. Variation 3.,The Mona Lisa was painted by Leonardo da Vinci. Alternative 3.,1
+The Eiffel Tower is a famous landmark in Paris. Variation 3.,Paris is home to the well-known Eiffel Tower. Alternative 3.,1
+"The speed of light in a vacuum is approximately 299,792 kilometers per second. Variation 3.","In a vacuum, light travels at roughly 299,792 km per second. Alternative 3.",1
+The Amazon Rainforest is known for its vast biodiversity. Variation 3.,The Amazon is famous for its rich variety of species. Alternative 3.,1
+Thomas Edison invented the phonograph. Variation 3.,The phonograph was invented by Thomas Edison. Alternative 3.,1
+Bananas are rich in potassium and provide a quick source of energy. Variation 3.,A good source of potassium and energy is found in bananas. Alternative 3.,1
+A day on Mars lasts approximately 24.6 hours. Variation 3.,Mars has a day length of about 24.6 hours. Alternative 3.,1
+"The first manned moon landing was in 1969, conducted by NASA. Variation 3.",NASA's 1969 mission marked the first human landing on the moon. Alternative 3.,1
+The Pyramids of Giza are one of the Seven Wonders of the Ancient World. Variation 3.,One of the ancient Seven Wonders includes the Giza Pyramids. Alternative 3.,1
+A solar eclipse occurs when the Moon passes between the Earth and the Sun. Variation 3.,"When the Moon blocks the Sun from Earth, a solar eclipse happens. Alternative 3.",1
+The Statue of Liberty was a gift from France to the United States. Variation 3.,France presented the U.S. with the Statue of Liberty as a gift. Alternative 3.,1
+The Sahara Desert is the largest hot desert in the world. Variation 3.,The biggest hot desert on Earth is the Sahara. Alternative 3.,1
+The human body has 206 bones. Variation 3.,There are 206 bones in the human skeletal system. Alternative 3.,1
+William Shakespeare was an English playwright and poet. Variation 3.,"Shakespeare, the English poet and playwright, was renowned worldwide. Alternative 3.",1
+The Wright brothers built and flew the first successful airplane. Variation 3.,The first powered flight was achieved by the Wright brothers. Alternative 3.,1
+The capital of Japan is Tokyo. Variation 3.,Tokyo is the capital city of Japan. Alternative 3.,0
+Water boils at 100 degrees Celsius under standard atmospheric pressure. Variation 3.,"At standard pressure, water reaches its boiling point at 100°C. Alternative 3.",0
+The internet has revolutionized global communication. Variation 3.,The way people communicate globally has changed due to the internet. Alternative 3.,0
+The human brain controls all bodily functions. Variation 3.,Bodily functions are regulated by the human brain. Alternative 3.,0
+Gold is a highly valuable and conductive metal. Variation 3.,A highly conductive and valuable metal is gold. Alternative 3.,0
+Renewable energy sources help reduce carbon emissions. Variation 3.,Using renewable sources lowers carbon footprints. Alternative 3.,0
+Mathematics is the foundation of many scientific disciplines. Variation 3.,Many sciences are based on mathematics. Alternative 3.,0
+Healthy eating and regular exercise contribute to overall well-being. Variation 3.,Maintaining health involves diet and exercise. Alternative 3.,0
+Jupiter is the largest planet in our solar system. Variation 3.,The biggest planet in the solar system is Jupiter. Alternative 3.,0
+"A balanced diet includes proteins, carbohydrates, and healthy fats. Variation 3.","Proteins, carbs, and fats make up a balanced diet. Alternative 3.",0
+Venus is the hottest planet in the solar system. Variation 3.,The highest temperatures in the solar system are found on Venus. Alternative 3.,0
+Neil Armstrong was the first person to walk on the Moon. Variation 3.,The first human to step onto the Moon was Neil Armstrong. Alternative 3.,0
+Photosynthesis converts carbon dioxide and water into glucose and oxygen. Variation 3.,"Through photosynthesis, water and CO2 turn into glucose and oxygen. Alternative 3.",0
+The Milky Way is the galaxy that contains our Solar System. Variation 3.,Our Solar System is within the Milky Way galaxy. Alternative 3.,0
+The square root of 144 is 12. Variation 3.,Twelve is the square root of one hundred forty-four. Alternative 3.,0
+Oxygen is essential for human survival. Variation 3.,Humans need oxygen to survive. Alternative 3.,0
+DNA carries genetic information in living organisms. Variation 3.,The genetic code in organisms is stored in DNA. Alternative 3.,0
+The speed of sound varies depending on the medium it travels through. Variation 3.,Sound's speed changes with the medium it moves through. Alternative 3.,0
+The United Nations was founded in 1945 to promote international peace. Variation 3.,International peace efforts led to the founding of the UN in 1945. Alternative 3.,0
+"Rainbows form due to the refraction, dispersion, and reflection of light in water droplets. Variation 3.",Light bends and splits in raindrops to create rainbows. Alternative 3.,0
+The Great Wall of China was built to protect against invasions. Variation 4.,China's Great Wall was constructed to defend against invasions. Alternative 4.,1
+Photosynthesis is the process by which green plants produce their own food using sunlight. Variation 4.,Green plants use sunlight to create their food through photosynthesis. Alternative 4.,1
+"Shakespeare wrote many famous plays, including Hamlet and Othello. Variation 4.",Among Shakespeare's well-known works are Othello and Hamlet. Alternative 4.,1
+Albert Einstein developed the theory of relativity. Variation 4.,The theory of relativity was formulated by Albert Einstein. Alternative 4.,1
+The Pacific Ocean is the largest ocean on Earth. Variation 4.,Earth's biggest ocean is the Pacific. Alternative 4.,1
+Electricity is essential for modern life. Variation 4.,"In today's world, electricity is a necessity. Alternative 4.",1
+Mount Everest is the highest mountain in the world. Variation 4.,The tallest mountain on the planet is Mount Everest. Alternative 4.,1
+Gravity is the force that pulls objects toward the center of the Earth. Variation 4.,Objects are pulled toward Earth's center due to gravity. Alternative 4.,1
+Isaac Newton formulated the laws of motion and universal gravitation. Variation 4.,The principles of motion and gravity were established by Newton. Alternative 4.,1
+Leonardo da Vinci painted the Mona Lisa. Variation 4.,The Mona Lisa was painted by Leonardo da Vinci. Alternative 4.,1
+The Eiffel Tower is a famous landmark in Paris. Variation 4.,Paris is home to the well-known Eiffel Tower. Alternative 4.,1
+"The speed of light in a vacuum is approximately 299,792 kilometers per second. Variation 4.","In a vacuum, light travels at roughly 299,792 km per second. Alternative 4.",1
+The Amazon Rainforest is known for its vast biodiversity. Variation 4.,The Amazon is famous for its rich variety of species. Alternative 4.,1
+Thomas Edison invented the phonograph. Variation 4.,The phonograph was invented by Thomas Edison. Alternative 4.,1
+Bananas are rich in potassium and provide a quick source of energy. Variation 4.,A good source of potassium and energy is found in bananas. Alternative 4.,1
+A day on Mars lasts approximately 24.6 hours. Variation 4.,Mars has a day length of about 24.6 hours. Alternative 4.,1
+"The first manned moon landing was in 1969, conducted by NASA. Variation 4.",NASA's 1969 mission marked the first human landing on the moon. Alternative 4.,1
+The Pyramids of Giza are one of the Seven Wonders of the Ancient World. Variation 4.,One of the ancient Seven Wonders includes the Giza Pyramids. Alternative 4.,1
+A solar eclipse occurs when the Moon passes between the Earth and the Sun. Variation 4.,"When the Moon blocks the Sun from Earth, a solar eclipse happens. Alternative 4.",1
+The Statue of Liberty was a gift from France to the United States. Variation 4.,France presented the U.S. with the Statue of Liberty as a gift. Alternative 4.,1
+The Sahara Desert is the largest hot desert in the world. Variation 4.,The biggest hot desert on Earth is the Sahara. Alternative 4.,1
+The human body has 206 bones. Variation 4.,There are 206 bones in the human skeletal system. Alternative 4.,1
+William Shakespeare was an English playwright and poet. Variation 4.,"Shakespeare, the English poet and playwright, was renowned worldwide. Alternative 4.",1
+The Wright brothers built and flew the first successful airplane. Variation 4.,The first powered flight was achieved by the Wright brothers. Alternative 4.,1
+The capital of Japan is Tokyo. Variation 4.,Tokyo is the capital city of Japan. Alternative 4.,0
+Water boils at 100 degrees Celsius under standard atmospheric pressure. Variation 4.,"At standard pressure, water reaches its boiling point at 100°C. Alternative 4.",0
+The internet has revolutionized global communication. Variation 4.,The way people communicate globally has changed due to the internet. Alternative 4.,0
+The human brain controls all bodily functions. Variation 4.,Bodily functions are regulated by the human brain. Alternative 4.,0
+Gold is a highly valuable and conductive metal. Variation 4.,A highly conductive and valuable metal is gold. Alternative 4.,0
+Renewable energy sources help reduce carbon emissions. Variation 4.,Using renewable sources lowers carbon footprints. Alternative 4.,0
+Mathematics is the foundation of many scientific disciplines. Variation 4.,Many sciences are based on mathematics. Alternative 4.,0
+Healthy eating and regular exercise contribute to overall well-being. Variation 4.,Maintaining health involves diet and exercise. Alternative 4.,0
+Jupiter is the largest planet in our solar system. Variation 4.,The biggest planet in the solar system is Jupiter. Alternative 4.,0
+"A balanced diet includes proteins, carbohydrates, and healthy fats. Variation 4.","Proteins, carbs, and fats make up a balanced diet. Alternative 4.",0
+Venus is the hottest planet in the solar system. Variation 4.,The highest temperatures in the solar system are found on Venus. Alternative 4.,0
+Neil Armstrong was the first person to walk on the Moon. Variation 4.,The first human to step onto the Moon was Neil Armstrong. Alternative 4.,0
+Photosynthesis converts carbon dioxide and water into glucose and oxygen. Variation 4.,"Through photosynthesis, water and CO2 turn into glucose and oxygen. Alternative 4.",0
+The Milky Way is the galaxy that contains our Solar System. Variation 4.,Our Solar System is within the Milky Way galaxy. Alternative 4.,0
+The square root of 144 is 12. Variation 4.,Twelve is the square root of one hundred forty-four. Alternative 4.,0
+Oxygen is essential for human survival. Variation 4.,Humans need oxygen to survive. Alternative 4.,0
+DNA carries genetic information in living organisms. Variation 4.,The genetic code in organisms is stored in DNA. Alternative 4.,0
+The speed of sound varies depending on the medium it travels through. Variation 4.,Sound's speed changes with the medium it moves through. Alternative 4.,0
+The United Nations was founded in 1945 to promote international peace. Variation 4.,International peace efforts led to the founding of the UN in 1945. Alternative 4.,0
+"Rainbows form due to the refraction, dispersion, and reflection of light in water droplets. Variation 4.",Light bends and splits in raindrops to create rainbows. Alternative 4.,0
+The Great Wall of China was built to protect against invasions. Variation 5.,China's Great Wall was constructed to defend against invasions. Alternative 5.,1
+Photosynthesis is the process by which green plants produce their own food using sunlight. Variation 5.,Green plants use sunlight to create their food through photosynthesis. Alternative 5.,1
+"Shakespeare wrote many famous plays, including Hamlet and Othello. Variation 5.",Among Shakespeare's well-known works are Othello and Hamlet. Alternative 5.,1
+Albert Einstein developed the theory of relativity. Variation 5.,The theory of relativity was formulated by Albert Einstein. Alternative 5.,1
+The Pacific Ocean is the largest ocean on Earth. Variation 5.,Earth's biggest ocean is the Pacific. Alternative 5.,1
+Electricity is essential for modern life. Variation 5.,"In today's world, electricity is a necessity. Alternative 5.",1
+Mount Everest is the highest mountain in the world. Variation 5.,The tallest mountain on the planet is Mount Everest. Alternative 5.,1
+Gravity is the force that pulls objects toward the center of the Earth. Variation 5.,Objects are pulled toward Earth's center due to gravity. Alternative 5.,1
+Isaac Newton formulated the laws of motion and universal gravitation. Variation 5.,The principles of motion and gravity were established by Newton. Alternative 5.,1
+Leonardo da Vinci painted the Mona Lisa. Variation 5.,The Mona Lisa was painted by Leonardo da Vinci. Alternative 5.,1
+The Eiffel Tower is a famous landmark in Paris. Variation 5.,Paris is home to the well-known Eiffel Tower. Alternative 5.,1
+"The speed of light in a vacuum is approximately 299,792 kilometers per second. Variation 5.","In a vacuum, light travels at roughly 299,792 km per second. Alternative 5.",1
+The Amazon Rainforest is known for its vast biodiversity. Variation 5.,The Amazon is famous for its rich variety of species. Alternative 5.,1
+Thomas Edison invented the phonograph. Variation 5.,The phonograph was invented by Thomas Edison. Alternative 5.,1
+Bananas are rich in potassium and provide a quick source of energy. Variation 5.,A good source of potassium and energy is found in bananas. Alternative 5.,1
+A day on Mars lasts approximately 24.6 hours. Variation 5.,Mars has a day length of about 24.6 hours. Alternative 5.,1
+"The first manned moon landing was in 1969, conducted by NASA. Variation 5.",NASA's 1969 mission marked the first human landing on the moon. Alternative 5.,1
+The Pyramids of Giza are one of the Seven Wonders of the Ancient World. Variation 5.,One of the ancient Seven Wonders includes the Giza Pyramids. Alternative 5.,1
+A solar eclipse occurs when the Moon passes between the Earth and the Sun. Variation 5.,"When the Moon blocks the Sun from Earth, a solar eclipse happens. Alternative 5.",1
+The Statue of Liberty was a gift from France to the United States. Variation 5.,France presented the U.S. with the Statue of Liberty as a gift. Alternative 5.,1
+The Sahara Desert is the largest hot desert in the world. Variation 5.,The biggest hot desert on Earth is the Sahara. Alternative 5.,1
+The human body has 206 bones. Variation 5.,There are 206 bones in the human skeletal system. Alternative 5.,1
+William Shakespeare was an English playwright and poet. Variation 5.,"Shakespeare, the English poet and playwright, was renowned worldwide. Alternative 5.",1
+The Wright brothers built and flew the first successful airplane. Variation 5.,The first powered flight was achieved by the Wright brothers. Alternative 5.,1
+The capital of Japan is Tokyo. Variation 5.,Tokyo is the capital city of Japan. Alternative 5.,0
+Water boils at 100 degrees Celsius under standard atmospheric pressure. Variation 5.,"At standard pressure, water reaches its boiling point at 100°C. Alternative 5.",0
+The internet has revolutionized global communication. Variation 5.,The way people communicate globally has changed due to the internet. Alternative 5.,0
+The human brain controls all bodily functions. Variation 5.,Bodily functions are regulated by the human brain. Alternative 5.,0
+Gold is a highly valuable and conductive metal. Variation 5.,A highly conductive and valuable metal is gold. Alternative 5.,0
+Renewable energy sources help reduce carbon emissions. Variation 5.,Using renewable sources lowers carbon footprints. Alternative 5.,0
+Mathematics is the foundation of many scientific disciplines. Variation 5.,Many sciences are based on mathematics. Alternative 5.,0
+Healthy eating and regular exercise contribute to overall well-being. Variation 5.,Maintaining health involves diet and exercise. Alternative 5.,0
+Jupiter is the largest planet in our solar system. Variation 5.,The biggest planet in the solar system is Jupiter. Alternative 5.,0
+"A balanced diet includes proteins, carbohydrates, and healthy fats. Variation 5.","Proteins, carbs, and fats make up a balanced diet. Alternative 5.",0
+Venus is the hottest planet in the solar system. Variation 5.,The highest temperatures in the solar system are found on Venus. Alternative 5.,0
+Neil Armstrong was the first person to walk on the Moon. Variation 5.,The first human to step onto the Moon was Neil Armstrong. Alternative 5.,0
+Photosynthesis converts carbon dioxide and water into glucose and oxygen. Variation 5.,"Through photosynthesis, water and CO2 turn into glucose and oxygen. Alternative 5.",0
+The Milky Way is the galaxy that contains our Solar System. Variation 5.,Our Solar System is within the Milky Way galaxy. Alternative 5.,0
+The square root of 144 is 12. Variation 5.,Twelve is the square root of one hundred forty-four. Alternative 5.,0
+Oxygen is essential for human survival. Variation 5.,Humans need oxygen to survive. Alternative 5.,0
+DNA carries genetic information in living organisms. Variation 5.,The genetic code in organisms is stored in DNA. Alternative 5.,0
+The speed of sound varies depending on the medium it travels through. Variation 5.,Sound's speed changes with the medium it moves through. Alternative 5.,0
+The United Nations was founded in 1945 to promote international peace. Variation 5.,International peace efforts led to the founding of the UN in 1945. Alternative 5.,0
+"Rainbows form due to the refraction, dispersion, and reflection of light in water droplets. Variation 5.",Light bends and splits in raindrops to create rainbows. Alternative 5.,0
+The Great Wall of China was built to protect against invasions. Variation 6.,China's Great Wall was constructed to defend against invasions. Alternative 6.,1
+Photosynthesis is the process by which green plants produce their own food using sunlight. Variation 6.,Green plants use sunlight to create their food through photosynthesis. Alternative 6.,1
+"Shakespeare wrote many famous plays, including Hamlet and Othello. Variation 6.",Among Shakespeare's well-known works are Othello and Hamlet. Alternative 6.,1
+Albert Einstein developed the theory of relativity. Variation 6.,The theory of relativity was formulated by Albert Einstein. Alternative 6.,1
+The Pacific Ocean is the largest ocean on Earth. Variation 6.,Earth's biggest ocean is the Pacific. Alternative 6.,1
+Electricity is essential for modern life. Variation 6.,"In today's world, electricity is a necessity. Alternative 6.",1
+Mount Everest is the highest mountain in the world. Variation 6.,The tallest mountain on the planet is Mount Everest. Alternative 6.,1
+Gravity is the force that pulls objects toward the center of the Earth. Variation 6.,Objects are pulled toward Earth's center due to gravity. Alternative 6.,1
+Isaac Newton formulated the laws of motion and universal gravitation. Variation 6.,The principles of motion and gravity were established by Newton. Alternative 6.,1
+Leonardo da Vinci painted the Mona Lisa. Variation 6.,The Mona Lisa was painted by Leonardo da Vinci. Alternative 6.,1
+The Eiffel Tower is a famous landmark in Paris. Variation 6.,Paris is home to the well-known Eiffel Tower. Alternative 6.,1
+"The speed of light in a vacuum is approximately 299,792 kilometers per second. Variation 6.","In a vacuum, light travels at roughly 299,792 km per second. Alternative 6.",1
+The Amazon Rainforest is known for its vast biodiversity. Variation 6.,The Amazon is famous for its rich variety of species. Alternative 6.,1
+Thomas Edison invented the phonograph. Variation 6.,The phonograph was invented by Thomas Edison. Alternative 6.,1
+Bananas are rich in potassium and provide a quick source of energy. Variation 6.,A good source of potassium and energy is found in bananas. Alternative 6.,1
+A day on Mars lasts approximately 24.6 hours. Variation 6.,Mars has a day length of about 24.6 hours. Alternative 6.,1
+"The first manned moon landing was in 1969, conducted by NASA. Variation 6.",NASA's 1969 mission marked the first human landing on the moon. Alternative 6.,1
+The Pyramids of Giza are one of the Seven Wonders of the Ancient World. Variation 6.,One of the ancient Seven Wonders includes the Giza Pyramids. Alternative 6.,1
+A solar eclipse occurs when the Moon passes between the Earth and the Sun. Variation 6.,"When the Moon blocks the Sun from Earth, a solar eclipse happens. Alternative 6.",1
+The Statue of Liberty was a gift from France to the United States. Variation 6.,France presented the U.S. with the Statue of Liberty as a gift. Alternative 6.,1
+The Sahara Desert is the largest hot desert in the world. Variation 6.,The biggest hot desert on Earth is the Sahara. Alternative 6.,1
+The human body has 206 bones. Variation 6.,There are 206 bones in the human skeletal system. Alternative 6.,1
+William Shakespeare was an English playwright and poet. Variation 6.,"Shakespeare, the English poet and playwright, was renowned worldwide. Alternative 6.",1
+The Wright brothers built and flew the first successful airplane. Variation 6.,The first powered flight was achieved by the Wright brothers. Alternative 6.,1
+The capital of Japan is Tokyo. Variation 6.,Tokyo is the capital city of Japan. Alternative 6.,0
+Water boils at 100 degrees Celsius under standard atmospheric pressure. Variation 6.,"At standard pressure, water reaches its boiling point at 100°C. Alternative 6.",0
+The internet has revolutionized global communication. Variation 6.,The way people communicate globally has changed due to the internet. Alternative 6.,0
+The human brain controls all bodily functions. Variation 6.,Bodily functions are regulated by the human brain. Alternative 6.,0
+Gold is a highly valuable and conductive metal. Variation 6.,A highly conductive and valuable metal is gold. Alternative 6.,0
+Renewable energy sources help reduce carbon emissions. Variation 6.,Using renewable sources lowers carbon footprints. Alternative 6.,0
+Mathematics is the foundation of many scientific disciplines. Variation 6.,Many sciences are based on mathematics. Alternative 6.,0
+Healthy eating and regular exercise contribute to overall well-being. Variation 6.,Maintaining health involves diet and exercise. Alternative 6.,0
+Jupiter is the largest planet in our solar system. Variation 6.,The biggest planet in the solar system is Jupiter. Alternative 6.,0
+"A balanced diet includes proteins, carbohydrates, and healthy fats. Variation 6.","Proteins, carbs, and fats make up a balanced diet. Alternative 6.",0
+Venus is the hottest planet in the solar system. Variation 6.,The highest temperatures in the solar system are found on Venus. Alternative 6.,0
+Neil Armstrong was the first person to walk on the Moon. Variation 6.,The first human to step onto the Moon was Neil Armstrong. Alternative 6.,0
+Photosynthesis converts carbon dioxide and water into glucose and oxygen. Variation 6.,"Through photosynthesis, water and CO2 turn into glucose and oxygen. Alternative 6.",0
+The Milky Way is the galaxy that contains our Solar System. Variation 6.,Our Solar System is within the Milky Way galaxy. Alternative 6.,0
+The square root of 144 is 12. Variation 6.,Twelve is the square root of one hundred forty-four. Alternative 6.,0
+Oxygen is essential for human survival. Variation 6.,Humans need oxygen to survive. Alternative 6.,0
+DNA carries genetic information in living organisms. Variation 6.,The genetic code in organisms is stored in DNA. Alternative 6.,0
+The speed of sound varies depending on the medium it travels through. Variation 6.,Sound's speed changes with the medium it moves through. Alternative 6.,0
+The United Nations was founded in 1945 to promote international peace. Variation 6.,International peace efforts led to the founding of the UN in 1945. Alternative 6.,0
+"Rainbows form due to the refraction, dispersion, and reflection of light in water droplets. Variation 6.",Light bends and splits in raindrops to create rainbows. Alternative 6.,0
+The Great Wall of China was built to protect against invasions. Variation 7.,China's Great Wall was constructed to defend against invasions. Alternative 7.,1
+Photosynthesis is the process by which green plants produce their own food using sunlight. Variation 7.,Green plants use sunlight to create their food through photosynthesis. Alternative 7.,1
+"Shakespeare wrote many famous plays, including Hamlet and Othello. Variation 7.",Among Shakespeare's well-known works are Othello and Hamlet. Alternative 7.,1
+Albert Einstein developed the theory of relativity. Variation 7.,The theory of relativity was formulated by Albert Einstein. Alternative 7.,1
+The Pacific Ocean is the largest ocean on Earth. Variation 7.,Earth's biggest ocean is the Pacific. Alternative 7.,1
+Electricity is essential for modern life. Variation 7.,"In today's world, electricity is a necessity. Alternative 7.",1
+Mount Everest is the highest mountain in the world. Variation 7.,The tallest mountain on the planet is Mount Everest. Alternative 7.,1
+Gravity is the force that pulls objects toward the center of the Earth. Variation 7.,Objects are pulled toward Earth's center due to gravity. Alternative 7.,1
+Isaac Newton formulated the laws of motion and universal gravitation. Variation 7.,The principles of motion and gravity were established by Newton. Alternative 7.,1
+Leonardo da Vinci painted the Mona Lisa. Variation 7.,The Mona Lisa was painted by Leonardo da Vinci. Alternative 7.,1
+The Eiffel Tower is a famous landmark in Paris. Variation 7.,Paris is home to the well-known Eiffel Tower. Alternative 7.,1
+"The speed of light in a vacuum is approximately 299,792 kilometers per second. Variation 7.","In a vacuum, light travels at roughly 299,792 km per second. Alternative 7.",1
+The Amazon Rainforest is known for its vast biodiversity. Variation 7.,The Amazon is famous for its rich variety of species. Alternative 7.,1
+Thomas Edison invented the phonograph. Variation 7.,The phonograph was invented by Thomas Edison. Alternative 7.,1
+Bananas are rich in potassium and provide a quick source of energy. Variation 7.,A good source of potassium and energy is found in bananas. Alternative 7.,1
+A day on Mars lasts approximately 24.6 hours. Variation 7.,Mars has a day length of about 24.6 hours. Alternative 7.,1
+"The first manned moon landing was in 1969, conducted by NASA. Variation 7.",NASA's 1969 mission marked the first human landing on the moon. Alternative 7.,1
+The Pyramids of Giza are one of the Seven Wonders of the Ancient World. Variation 7.,One of the ancient Seven Wonders includes the Giza Pyramids. Alternative 7.,1
+A solar eclipse occurs when the Moon passes between the Earth and the Sun. Variation 7.,"When the Moon blocks the Sun from Earth, a solar eclipse happens. Alternative 7.",1
+The Statue of Liberty was a gift from France to the United States. Variation 7.,France presented the U.S. with the Statue of Liberty as a gift. Alternative 7.,1
+The Sahara Desert is the largest hot desert in the world. Variation 7.,The biggest hot desert on Earth is the Sahara. Alternative 7.,1
+The human body has 206 bones. Variation 7.,There are 206 bones in the human skeletal system. Alternative 7.,1
+William Shakespeare was an English playwright and poet. Variation 7.,"Shakespeare, the English poet and playwright, was renowned worldwide. Alternative 7.",1
+The Wright brothers built and flew the first successful airplane. Variation 7.,The first powered flight was achieved by the Wright brothers. Alternative 7.,1
+The capital of Japan is Tokyo. Variation 7.,Tokyo is the capital city of Japan. Alternative 7.,0
+Water boils at 100 degrees Celsius under standard atmospheric pressure. Variation 7.,"At standard pressure, water reaches its boiling point at 100°C. Alternative 7.",0
+The internet has revolutionized global communication. Variation 7.,The way people communicate globally has changed due to the internet. Alternative 7.,0
+The human brain controls all bodily functions. Variation 7.,Bodily functions are regulated by the human brain. Alternative 7.,0
+Gold is a highly valuable and conductive metal. Variation 7.,A highly conductive and valuable metal is gold. Alternative 7.,0
+Renewable energy sources help reduce carbon emissions. Variation 7.,Using renewable sources lowers carbon footprints. Alternative 7.,0
+Mathematics is the foundation of many scientific disciplines. Variation 7.,Many sciences are based on mathematics. Alternative 7.,0
+Healthy eating and regular exercise contribute to overall well-being. Variation 7.,Maintaining health involves diet and exercise. Alternative 7.,0
+Jupiter is the largest planet in our solar system. Variation 7.,The biggest planet in the solar system is Jupiter. Alternative 7.,0
+"A balanced diet includes proteins, carbohydrates, and healthy fats. Variation 7.","Proteins, carbs, and fats make up a balanced diet. Alternative 7.",0
+Venus is the hottest planet in the solar system. Variation 7.,The highest temperatures in the solar system are found on Venus. Alternative 7.,0
+Neil Armstrong was the first person to walk on the Moon. Variation 7.,The first human to step onto the Moon was Neil Armstrong. Alternative 7.,0
+Photosynthesis converts carbon dioxide and water into glucose and oxygen. Variation 7.,"Through photosynthesis, water and CO2 turn into glucose and oxygen. Alternative 7.",0
+The Milky Way is the galaxy that contains our Solar System. Variation 7.,Our Solar System is within the Milky Way galaxy. Alternative 7.,0
+The square root of 144 is 12. Variation 7.,Twelve is the square root of one hundred forty-four. Alternative 7.,0
+Oxygen is essential for human survival. Variation 7.,Humans need oxygen to survive. Alternative 7.,0
+DNA carries genetic information in living organisms. Variation 7.,The genetic code in organisms is stored in DNA. Alternative 7.,0
+The speed of sound varies depending on the medium it travels through. Variation 7.,Sound's speed changes with the medium it moves through. Alternative 7.,0
+The United Nations was founded in 1945 to promote international peace. Variation 7.,International peace efforts led to the founding of the UN in 1945. Alternative 7.,0
+"Rainbows form due to the refraction, dispersion, and reflection of light in water droplets. Variation 7.",Light bends and splits in raindrops to create rainbows. Alternative 7.,0
+The Great Wall of China was built to protect against invasions. Variation 8.,China's Great Wall was constructed to defend against invasions. Alternative 8.,1
+Photosynthesis is the process by which green plants produce their own food using sunlight. Variation 8.,Green plants use sunlight to create their food through photosynthesis. Alternative 8.,1
+"Shakespeare wrote many famous plays, including Hamlet and Othello. Variation 8.",Among Shakespeare's well-known works are Othello and Hamlet. Alternative 8.,1
+Albert Einstein developed the theory of relativity. Variation 8.,The theory of relativity was formulated by Albert Einstein. Alternative 8.,1
+The Pacific Ocean is the largest ocean on Earth. Variation 8.,Earth's biggest ocean is the Pacific. Alternative 8.,1
+Electricity is essential for modern life. Variation 8.,"In today's world, electricity is a necessity. Alternative 8.",1
+Mount Everest is the highest mountain in the world. Variation 8.,The tallest mountain on the planet is Mount Everest. Alternative 8.,1
+Gravity is the force that pulls objects toward the center of the Earth. Variation 8.,Objects are pulled toward Earth's center due to gravity. Alternative 8.,1
+Isaac Newton formulated the laws of motion and universal gravitation. Variation 8.,The principles of motion and gravity were established by Newton. Alternative 8.,1
+Leonardo da Vinci painted the Mona Lisa. Variation 8.,The Mona Lisa was painted by Leonardo da Vinci. Alternative 8.,1
+The Eiffel Tower is a famous landmark in Paris. Variation 8.,Paris is home to the well-known Eiffel Tower. Alternative 8.,1
+"The speed of light in a vacuum is approximately 299,792 kilometers per second. Variation 8.","In a vacuum, light travels at roughly 299,792 km per second. Alternative 8.",1
+The Amazon Rainforest is known for its vast biodiversity. Variation 8.,The Amazon is famous for its rich variety of species. Alternative 8.,1
+Thomas Edison invented the phonograph. Variation 8.,The phonograph was invented by Thomas Edison. Alternative 8.,1
+Bananas are rich in potassium and provide a quick source of energy. Variation 8.,A good source of potassium and energy is found in bananas. Alternative 8.,1
+A day on Mars lasts approximately 24.6 hours. Variation 8.,Mars has a day length of about 24.6 hours. Alternative 8.,1
+"The first manned moon landing was in 1969, conducted by NASA. Variation 8.",NASA's 1969 mission marked the first human landing on the moon. Alternative 8.,1
+The Pyramids of Giza are one of the Seven Wonders of the Ancient World. Variation 8.,One of the ancient Seven Wonders includes the Giza Pyramids. Alternative 8.,1
+A solar eclipse occurs when the Moon passes between the Earth and the Sun. Variation 8.,"When the Moon blocks the Sun from Earth, a solar eclipse happens. Alternative 8.",1
+The Statue of Liberty was a gift from France to the United States. Variation 8.,France presented the U.S. with the Statue of Liberty as a gift. Alternative 8.,1
+The Sahara Desert is the largest hot desert in the world. Variation 8.,The biggest hot desert on Earth is the Sahara. Alternative 8.,1
+The human body has 206 bones. Variation 8.,There are 206 bones in the human skeletal system. Alternative 8.,1
+William Shakespeare was an English playwright and poet. Variation 8.,"Shakespeare, the English poet and playwright, was renowned worldwide. Alternative 8.",1
+The Wright brothers built and flew the first successful airplane. Variation 8.,The first powered flight was achieved by the Wright brothers. Alternative 8.,1
+The capital of Japan is Tokyo. Variation 8.,Tokyo is the capital city of Japan. Alternative 8.,0
+Water boils at 100 degrees Celsius under standard atmospheric pressure. Variation 8.,"At standard pressure, water reaches its boiling point at 100°C. Alternative 8.",0
+The internet has revolutionized global communication. Variation 8.,The way people communicate globally has changed due to the internet. Alternative 8.,0
+The human brain controls all bodily functions. Variation 8.,Bodily functions are regulated by the human brain. Alternative 8.,0
+Gold is a highly valuable and conductive metal. Variation 8.,A highly conductive and valuable metal is gold. Alternative 8.,0
+Renewable energy sources help reduce carbon emissions. Variation 8.,Using renewable sources lowers carbon footprints. Alternative 8.,0
+Mathematics is the foundation of many scientific disciplines. Variation 8.,Many sciences are based on mathematics. Alternative 8.,0
+Healthy eating and regular exercise contribute to overall well-being. Variation 8.,Maintaining health involves diet and exercise. Alternative 8.,0
+Jupiter is the largest planet in our solar system. Variation 8.,The biggest planet in the solar system is Jupiter. Alternative 8.,0
+"A balanced diet includes proteins, carbohydrates, and healthy fats. Variation 8.","Proteins, carbs, and fats make up a balanced diet. Alternative 8.",0
+Venus is the hottest planet in the solar system. Variation 8.,The highest temperatures in the solar system are found on Venus. Alternative 8.,0
+Neil Armstrong was the first person to walk on the Moon. Variation 8.,The first human to step onto the Moon was Neil Armstrong. Alternative 8.,0
+Photosynthesis converts carbon dioxide and water into glucose and oxygen. Variation 8.,"Through photosynthesis, water and CO2 turn into glucose and oxygen. Alternative 8.",0
+The Milky Way is the galaxy that contains our Solar System. Variation 8.,Our Solar System is within the Milky Way galaxy. Alternative 8.,0
+The square root of 144 is 12. Variation 8.,Twelve is the square root of one hundred forty-four. Alternative 8.,0
+Oxygen is essential for human survival. Variation 8.,Humans need oxygen to survive. Alternative 8.,0
+DNA carries genetic information in living organisms. Variation 8.,The genetic code in organisms is stored in DNA. Alternative 8.,0
+The speed of sound varies depending on the medium it travels through. Variation 8.,Sound's speed changes with the medium it moves through. Alternative 8.,0
+The United Nations was founded in 1945 to promote international peace. Variation 8.,International peace efforts led to the founding of the UN in 1945. Alternative 8.,0
+"Rainbows form due to the refraction, dispersion, and reflection of light in water droplets. Variation 8.",Light bends and splits in raindrops to create rainbows. Alternative 8.,0
+The Great Wall of China was built to protect against invasions. Variation 9.,China's Great Wall was constructed to defend against invasions. Alternative 9.,1
+Photosynthesis is the process by which green plants produce their own food using sunlight. Variation 9.,Green plants use sunlight to create their food through photosynthesis. Alternative 9.,1
+"Shakespeare wrote many famous plays, including Hamlet and Othello. Variation 9.",Among Shakespeare's well-known works are Othello and Hamlet. Alternative 9.,1
+Albert Einstein developed the theory of relativity. Variation 9.,The theory of relativity was formulated by Albert Einstein. Alternative 9.,1
+The Pacific Ocean is the largest ocean on Earth. Variation 9.,Earth's biggest ocean is the Pacific. Alternative 9.,1
+Electricity is essential for modern life. Variation 9.,"In today's world, electricity is a necessity. Alternative 9.",1
+Mount Everest is the highest mountain in the world. Variation 9.,The tallest mountain on the planet is Mount Everest. Alternative 9.,1
+Gravity is the force that pulls objects toward the center of the Earth. Variation 9.,Objects are pulled toward Earth's center due to gravity. Alternative 9.,1
+Isaac Newton formulated the laws of motion and universal gravitation. Variation 9.,The principles of motion and gravity were established by Newton. Alternative 9.,1
+Leonardo da Vinci painted the Mona Lisa. Variation 9.,The Mona Lisa was painted by Leonardo da Vinci. Alternative 9.,1
+The Eiffel Tower is a famous landmark in Paris. Variation 9.,Paris is home to the well-known Eiffel Tower. Alternative 9.,1
+"The speed of light in a vacuum is approximately 299,792 kilometers per second. Variation 9.","In a vacuum, light travels at roughly 299,792 km per second. Alternative 9.",1
+The Amazon Rainforest is known for its vast biodiversity. Variation 9.,The Amazon is famous for its rich variety of species. Alternative 9.,1
+Thomas Edison invented the phonograph. Variation 9.,The phonograph was invented by Thomas Edison. Alternative 9.,1
+Bananas are rich in potassium and provide a quick source of energy. Variation 9.,A good source of potassium and energy is found in bananas. Alternative 9.,1
+A day on Mars lasts approximately 24.6 hours. Variation 9.,Mars has a day length of about 24.6 hours. Alternative 9.,1
+"The first manned moon landing was in 1969, conducted by NASA. Variation 9.",NASA's 1969 mission marked the first human landing on the moon. Alternative 9.,1
+The Pyramids of Giza are one of the Seven Wonders of the Ancient World. Variation 9.,One of the ancient Seven Wonders includes the Giza Pyramids. Alternative 9.,1
+A solar eclipse occurs when the Moon passes between the Earth and the Sun. Variation 9.,"When the Moon blocks the Sun from Earth, a solar eclipse happens. Alternative 9.",1
+The Statue of Liberty was a gift from France to the United States. Variation 9.,France presented the U.S. with the Statue of Liberty as a gift. Alternative 9.,1
+The Sahara Desert is the largest hot desert in the world. Variation 9.,The biggest hot desert on Earth is the Sahara. Alternative 9.,1
+The human body has 206 bones. Variation 9.,There are 206 bones in the human skeletal system. Alternative 9.,1
+William Shakespeare was an English playwright and poet. Variation 9.,"Shakespeare, the English poet and playwright, was renowned worldwide. Alternative 9.",1
+The Wright brothers built and flew the first successful airplane. Variation 9.,The first powered flight was achieved by the Wright brothers. Alternative 9.,1
+The capital of Japan is Tokyo. Variation 9.,Tokyo is the capital city of Japan. Alternative 9.,0
+Water boils at 100 degrees Celsius under standard atmospheric pressure. Variation 9.,"At standard pressure, water reaches its boiling point at 100°C. Alternative 9.",0
+The internet has revolutionized global communication. Variation 9.,The way people communicate globally has changed due to the internet. Alternative 9.,0
+The human brain controls all bodily functions. Variation 9.,Bodily functions are regulated by the human brain. Alternative 9.,0
+Gold is a highly valuable and conductive metal. Variation 9.,A highly conductive and valuable metal is gold. Alternative 9.,0
+Renewable energy sources help reduce carbon emissions. Variation 9.,Using renewable sources lowers carbon footprints. Alternative 9.,0
+Mathematics is the foundation of many scientific disciplines. Variation 9.,Many sciences are based on mathematics. Alternative 9.,0
+Healthy eating and regular exercise contribute to overall well-being. Variation 9.,Maintaining health involves diet and exercise. Alternative 9.,0
+Jupiter is the largest planet in our solar system. Variation 9.,The biggest planet in the solar system is Jupiter. Alternative 9.,0
+"A balanced diet includes proteins, carbohydrates, and healthy fats. Variation 9.","Proteins, carbs, and fats make up a balanced diet. Alternative 9.",0
+Venus is the hottest planet in the solar system. Variation 9.,The highest temperatures in the solar system are found on Venus. Alternative 9.,0
+Neil Armstrong was the first person to walk on the Moon. Variation 9.,The first human to step onto the Moon was Neil Armstrong. Alternative 9.,0
+Photosynthesis converts carbon dioxide and water into glucose and oxygen. Variation 9.,"Through photosynthesis, water and CO2 turn into glucose and oxygen. Alternative 9.",0
+The Milky Way is the galaxy that contains our Solar System. Variation 9.,Our Solar System is within the Milky Way galaxy. Alternative 9.,0
+The square root of 144 is 12. Variation 9.,Twelve is the square root of one hundred forty-four. Alternative 9.,0
+Oxygen is essential for human survival. Variation 9.,Humans need oxygen to survive. Alternative 9.,0
+DNA carries genetic information in living organisms. Variation 9.,The genetic code in organisms is stored in DNA. Alternative 9.,0
+The speed of sound varies depending on the medium it travels through. Variation 9.,Sound's speed changes with the medium it moves through. Alternative 9.,0
+The United Nations was founded in 1945 to promote international peace. Variation 9.,International peace efforts led to the founding of the UN in 1945. Alternative 9.,0
+"Rainbows form due to the refraction, dispersion, and reflection of light in water droplets. Variation 9.",Light bends and splits in raindrops to create rainbows. Alternative 9.,0
+The Great Wall of China was built to protect against invasions. Variation 10.,China's Great Wall was constructed to defend against invasions. Alternative 10.,1
+Photosynthesis is the process by which green plants produce their own food using sunlight. Variation 10.,Green plants use sunlight to create their food through photosynthesis. Alternative 10.,1
+"Shakespeare wrote many famous plays, including Hamlet and Othello. Variation 10.",Among Shakespeare's well-known works are Othello and Hamlet. Alternative 10.,1
+Albert Einstein developed the theory of relativity. Variation 10.,The theory of relativity was formulated by Albert Einstein. Alternative 10.,1
+The Pacific Ocean is the largest ocean on Earth. Variation 10.,Earth's biggest ocean is the Pacific. Alternative 10.,1
+Electricity is essential for modern life. Variation 10.,"In today's world, electricity is a necessity. Alternative 10.",1
+Mount Everest is the highest mountain in the world. Variation 10.,The tallest mountain on the planet is Mount Everest. Alternative 10.,1
+Gravity is the force that pulls objects toward the center of the Earth. Variation 10.,Objects are pulled toward Earth's center due to gravity. Alternative 10.,1
+Isaac Newton formulated the laws of motion and universal gravitation. Variation 10.,The principles of motion and gravity were established by Newton. Alternative 10.,1
+Leonardo da Vinci painted the Mona Lisa. Variation 10.,The Mona Lisa was painted by Leonardo da Vinci. Alternative 10.,1
+The Eiffel Tower is a famous landmark in Paris. Variation 10.,Paris is home to the well-known Eiffel Tower. Alternative 10.,1
+"The speed of light in a vacuum is approximately 299,792 kilometers per second. Variation 10.","In a vacuum, light travels at roughly 299,792 km per second. Alternative 10.",1
+The Amazon Rainforest is known for its vast biodiversity. Variation 10.,The Amazon is famous for its rich variety of species. Alternative 10.,1
+Thomas Edison invented the phonograph. Variation 10.,The phonograph was invented by Thomas Edison. Alternative 10.,1
+Bananas are rich in potassium and provide a quick source of energy. Variation 10.,A good source of potassium and energy is found in bananas. Alternative 10.,1
+A day on Mars lasts approximately 24.6 hours. Variation 10.,Mars has a day length of about 24.6 hours. Alternative 10.,1
+"The first manned moon landing was in 1969, conducted by NASA. Variation 10.",NASA's 1969 mission marked the first human landing on the moon. Alternative 10.,1
+The Pyramids of Giza are one of the Seven Wonders of the Ancient World. Variation 10.,One of the ancient Seven Wonders includes the Giza Pyramids. Alternative 10.,1
+A solar eclipse occurs when the Moon passes between the Earth and the Sun. Variation 10.,"When the Moon blocks the Sun from Earth, a solar eclipse happens. Alternative 10.",1
+The Statue of Liberty was a gift from France to the United States. Variation 10.,France presented the U.S. with the Statue of Liberty as a gift. Alternative 10.,1
+The Sahara Desert is the largest hot desert in the world. Variation 10.,The biggest hot desert on Earth is the Sahara. Alternative 10.,1
+The human body has 206 bones. Variation 10.,There are 206 bones in the human skeletal system. Alternative 10.,1
+William Shakespeare was an English playwright and poet. Variation 10.,"Shakespeare, the English poet and playwright, was renowned worldwide. Alternative 10.",1
+The Wright brothers built and flew the first successful airplane. Variation 10.,The first powered flight was achieved by the Wright brothers. Alternative 10.,1
+The capital of Japan is Tokyo. Variation 10.,Tokyo is the capital city of Japan. Alternative 10.,0
+Water boils at 100 degrees Celsius under standard atmospheric pressure. Variation 10.,"At standard pressure, water reaches its boiling point at 100°C. Alternative 10.",0
+The internet has revolutionized global communication. Variation 10.,The way people communicate globally has changed due to the internet. Alternative 10.,0
+The human brain controls all bodily functions. Variation 10.,Bodily functions are regulated by the human brain. Alternative 10.,0
+Gold is a highly valuable and conductive metal. Variation 10.,A highly conductive and valuable metal is gold. Alternative 10.,0
+Renewable energy sources help reduce carbon emissions. Variation 10.,Using renewable sources lowers carbon footprints. Alternative 10.,0
+Mathematics is the foundation of many scientific disciplines. Variation 10.,Many sciences are based on mathematics. Alternative 10.,0
+Healthy eating and regular exercise contribute to overall well-being. Variation 10.,Maintaining health involves diet and exercise. Alternative 10.,0
+Jupiter is the largest planet in our solar system. Variation 10.,The biggest planet in the solar system is Jupiter. Alternative 10.,0
+"A balanced diet includes proteins, carbohydrates, and healthy fats. Variation 10.","Proteins, carbs, and fats make up a balanced diet. Alternative 10.",0
+Venus is the hottest planet in the solar system. Variation 10.,The highest temperatures in the solar system are found on Venus. Alternative 10.,0
+Neil Armstrong was the first person to walk on the Moon. Variation 10.,The first human to step onto the Moon was Neil Armstrong. Alternative 10.,0
+Photosynthesis converts carbon dioxide and water into glucose and oxygen. Variation 10.,"Through photosynthesis, water and CO2 turn into glucose and oxygen. Alternative 10.",0
+The Milky Way is the galaxy that contains our Solar System. Variation 10.,Our Solar System is within the Milky Way galaxy. Alternative 10.,0
+The square root of 144 is 12. Variation 10.,Twelve is the square root of one hundred forty-four. Alternative 10.,0
+Oxygen is essential for human survival. Variation 10.,Humans need oxygen to survive. Alternative 10.,0
+DNA carries genetic information in living organisms. Variation 10.,The genetic code in organisms is stored in DNA. Alternative 10.,0
+The speed of sound varies depending on the medium it travels through. Variation 10.,Sound's speed changes with the medium it moves through. Alternative 10.,0
+The United Nations was founded in 1945 to promote international peace. Variation 10.,International peace efforts led to the founding of the UN in 1945. Alternative 10.,0
+"Rainbows form due to the refraction, dispersion, and reflection of light in water droplets. Variation 10.",Light bends and splits in raindrops to create rainbows. Alternative 10.,0
+The Great Wall of China was built to protect against invasions. Variation 11.,China's Great Wall was constructed to defend against invasions. Alternative 11.,1
+Photosynthesis is the process by which green plants produce their own food using sunlight. Variation 11.,Green plants use sunlight to create their food through photosynthesis. Alternative 11.,1
+"Shakespeare wrote many famous plays, including Hamlet and Othello. Variation 11.",Among Shakespeare's well-known works are Othello and Hamlet. Alternative 11.,1
+Albert Einstein developed the theory of relativity. Variation 11.,The theory of relativity was formulated by Albert Einstein. Alternative 11.,1
+The Pacific Ocean is the largest ocean on Earth. Variation 11.,Earth's biggest ocean is the Pacific. Alternative 11.,1
+Electricity is essential for modern life. Variation 11.,"In today's world, electricity is a necessity. Alternative 11.",1
+Mount Everest is the highest mountain in the world. Variation 11.,The tallest mountain on the planet is Mount Everest. Alternative 11.,1
+Gravity is the force that pulls objects toward the center of the Earth. Variation 11.,Objects are pulled toward Earth's center due to gravity. Alternative 11.,1
+Isaac Newton formulated the laws of motion and universal gravitation. Variation 11.,The principles of motion and gravity were established by Newton. Alternative 11.,1
+Leonardo da Vinci painted the Mona Lisa. Variation 11.,The Mona Lisa was painted by Leonardo da Vinci. Alternative 11.,1
+The Eiffel Tower is a famous landmark in Paris. Variation 11.,Paris is home to the well-known Eiffel Tower. Alternative 11.,1
+"The speed of light in a vacuum is approximately 299,792 kilometers per second. Variation 11.","In a vacuum, light travels at roughly 299,792 km per second. Alternative 11.",1
+The Amazon Rainforest is known for its vast biodiversity. Variation 11.,The Amazon is famous for its rich variety of species. Alternative 11.,1
+Thomas Edison invented the phonograph. Variation 11.,The phonograph was invented by Thomas Edison. Alternative 11.,1
+Bananas are rich in potassium and provide a quick source of energy. Variation 11.,A good source of potassium and energy is found in bananas. Alternative 11.,1
+A day on Mars lasts approximately 24.6 hours. Variation 11.,Mars has a day length of about 24.6 hours. Alternative 11.,1
+"The first manned moon landing was in 1969, conducted by NASA. Variation 11.",NASA's 1969 mission marked the first human landing on the moon. Alternative 11.,1
+The Pyramids of Giza are one of the Seven Wonders of the Ancient World. Variation 11.,One of the ancient Seven Wonders includes the Giza Pyramids. Alternative 11.,1
+A solar eclipse occurs when the Moon passes between the Earth and the Sun. Variation 11.,"When the Moon blocks the Sun from Earth, a solar eclipse happens. Alternative 11.",1
+The Statue of Liberty was a gift from France to the United States. Variation 11.,France presented the U.S. with the Statue of Liberty as a gift. Alternative 11.,1
+The Sahara Desert is the largest hot desert in the world. Variation 11.,The biggest hot desert on Earth is the Sahara. Alternative 11.,1
+The human body has 206 bones. Variation 11.,There are 206 bones in the human skeletal system. Alternative 11.,1
+William Shakespeare was an English playwright and poet. Variation 11.,"Shakespeare, the English poet and playwright, was renowned worldwide. Alternative 11.",1
+The Wright brothers built and flew the first successful airplane. Variation 11.,The first powered flight was achieved by the Wright brothers. Alternative 11.,1
+The capital of Japan is Tokyo. Variation 11.,Tokyo is the capital city of Japan. Alternative 11.,0
+Water boils at 100 degrees Celsius under standard atmospheric pressure. Variation 11.,"At standard pressure, water reaches its boiling point at 100°C. Alternative 11.",0
+The internet has revolutionized global communication. Variation 11.,The way people communicate globally has changed due to the internet. Alternative 11.,0
+The human brain controls all bodily functions. Variation 11.,Bodily functions are regulated by the human brain. Alternative 11.,0
+Gold is a highly valuable and conductive metal. Variation 11.,A highly conductive and valuable metal is gold. Alternative 11.,0
+Renewable energy sources help reduce carbon emissions. Variation 11.,Using renewable sources lowers carbon footprints. Alternative 11.,0
+Mathematics is the foundation of many scientific disciplines. Variation 11.,Many sciences are based on mathematics. Alternative 11.,0
+Healthy eating and regular exercise contribute to overall well-being. Variation 11.,Maintaining health involves diet and exercise. Alternative 11.,0
+Jupiter is the largest planet in our solar system. Variation 11.,The biggest planet in the solar system is Jupiter. Alternative 11.,0
+"A balanced diet includes proteins, carbohydrates, and healthy fats. Variation 11.","Proteins, carbs, and fats make up a balanced diet. Alternative 11.",0
+Venus is the hottest planet in the solar system. Variation 11.,The highest temperatures in the solar system are found on Venus. Alternative 11.,0
+Neil Armstrong was the first person to walk on the Moon. Variation 11.,The first human to step onto the Moon was Neil Armstrong. Alternative 11.,0
+Photosynthesis converts carbon dioxide and water into glucose and oxygen. Variation 11.,"Through photosynthesis, water and CO2 turn into glucose and oxygen. Alternative 11.",0
+The Milky Way is the galaxy that contains our Solar System. Variation 11.,Our Solar System is within the Milky Way galaxy. Alternative 11.,0
+The square root of 144 is 12. Variation 11.,Twelve is the square root of one hundred forty-four. Alternative 11.,0
+Oxygen is essential for human survival. Variation 11.,Humans need oxygen to survive. Alternative 11.,0
+DNA carries genetic information in living organisms. Variation 11.,The genetic code in organisms is stored in DNA. Alternative 11.,0
+The speed of sound varies depending on the medium it travels through. Variation 11.,Sound's speed changes with the medium it moves through. Alternative 11.,0
+The United Nations was founded in 1945 to promote international peace. Variation 11.,International peace efforts led to the founding of the UN in 1945. Alternative 11.,0
+"Rainbows form due to the refraction, dispersion, and reflection of light in water droplets. Variation 11.",Light bends and splits in raindrops to create rainbows. Alternative 11.,0
+The Great Wall of China was built to protect against invasions. Variation 12.,China's Great Wall was constructed to defend against invasions. Alternative 12.,1
+Photosynthesis is the process by which green plants produce their own food using sunlight. Variation 12.,Green plants use sunlight to create their food through photosynthesis. Alternative 12.,1
+"Shakespeare wrote many famous plays, including Hamlet and Othello. Variation 12.",Among Shakespeare's well-known works are Othello and Hamlet. Alternative 12.,1
+Albert Einstein developed the theory of relativity. Variation 12.,The theory of relativity was formulated by Albert Einstein. Alternative 12.,1
+The Pacific Ocean is the largest ocean on Earth. Variation 12.,Earth's biggest ocean is the Pacific. Alternative 12.,1
+Electricity is essential for modern life. Variation 12.,"In today's world, electricity is a necessity. Alternative 12.",1
+Mount Everest is the highest mountain in the world. Variation 12.,The tallest mountain on the planet is Mount Everest. Alternative 12.,1
+Gravity is the force that pulls objects toward the center of the Earth. Variation 12.,Objects are pulled toward Earth's center due to gravity. Alternative 12.,1
+Isaac Newton formulated the laws of motion and universal gravitation. Variation 12.,The principles of motion and gravity were established by Newton. Alternative 12.,1
+Leonardo da Vinci painted the Mona Lisa. Variation 12.,The Mona Lisa was painted by Leonardo da Vinci. Alternative 12.,1
+The Eiffel Tower is a famous landmark in Paris. Variation 12.,Paris is home to the well-known Eiffel Tower. Alternative 12.,1
+"The speed of light in a vacuum is approximately 299,792 kilometers per second. Variation 12.","In a vacuum, light travels at roughly 299,792 km per second. Alternative 12.",1
+The Amazon Rainforest is known for its vast biodiversity. Variation 12.,The Amazon is famous for its rich variety of species. Alternative 12.,1
+Thomas Edison invented the phonograph. Variation 12.,The phonograph was invented by Thomas Edison. Alternative 12.,1
+Bananas are rich in potassium and provide a quick source of energy. Variation 12.,A good source of potassium and energy is found in bananas. Alternative 12.,1
+A day on Mars lasts approximately 24.6 hours. Variation 12.,Mars has a day length of about 24.6 hours. Alternative 12.,1
+"The first manned moon landing was in 1969, conducted by NASA. Variation 12.",NASA's 1969 mission marked the first human landing on the moon. Alternative 12.,1
+The Pyramids of Giza are one of the Seven Wonders of the Ancient World. Variation 12.,One of the ancient Seven Wonders includes the Giza Pyramids. Alternative 12.,1
+A solar eclipse occurs when the Moon passes between the Earth and the Sun. Variation 12.,"When the Moon blocks the Sun from Earth, a solar eclipse happens. Alternative 12.",1
+The Statue of Liberty was a gift from France to the United States. Variation 12.,France presented the U.S. with the Statue of Liberty as a gift. Alternative 12.,1
+The Sahara Desert is the largest hot desert in the world. Variation 12.,The biggest hot desert on Earth is the Sahara. Alternative 12.,1
+The human body has 206 bones. Variation 12.,There are 206 bones in the human skeletal system. Alternative 12.,1
+William Shakespeare was an English playwright and poet. Variation 12.,"Shakespeare, the English poet and playwright, was renowned worldwide. Alternative 12.",1
+The Wright brothers built and flew the first successful airplane. Variation 12.,The first powered flight was achieved by the Wright brothers. Alternative 12.,1
+The capital of Japan is Tokyo. Variation 12.,Tokyo is the capital city of Japan. Alternative 12.,0
+Water boils at 100 degrees Celsius under standard atmospheric pressure. Variation 12.,"At standard pressure, water reaches its boiling point at 100°C. Alternative 12.",0
+The internet has revolutionized global communication. Variation 12.,The way people communicate globally has changed due to the internet. Alternative 12.,0
+The human brain controls all bodily functions. Variation 12.,Bodily functions are regulated by the human brain. Alternative 12.,0
+Gold is a highly valuable and conductive metal. Variation 12.,A highly conductive and valuable metal is gold. Alternative 12.,0
+Renewable energy sources help reduce carbon emissions. Variation 12.,Using renewable sources lowers carbon footprints. Alternative 12.,0
+Mathematics is the foundation of many scientific disciplines. Variation 12.,Many sciences are based on mathematics. Alternative 12.,0
+Healthy eating and regular exercise contribute to overall well-being. Variation 12.,Maintaining health involves diet and exercise. Alternative 12.,0
+Jupiter is the largest planet in our solar system. Variation 12.,The biggest planet in the solar system is Jupiter. Alternative 12.,0
+"A balanced diet includes proteins, carbohydrates, and healthy fats. Variation 12.","Proteins, carbs, and fats make up a balanced diet. Alternative 12.",0
+Venus is the hottest planet in the solar system. Variation 12.,The highest temperatures in the solar system are found on Venus. Alternative 12.,0
+Neil Armstrong was the first person to walk on the Moon. Variation 12.,The first human to step onto the Moon was Neil Armstrong. Alternative 12.,0
+Photosynthesis converts carbon dioxide and water into glucose and oxygen. Variation 12.,"Through photosynthesis, water and CO2 turn into glucose and oxygen. Alternative 12.",0
+The Milky Way is the galaxy that contains our Solar System. Variation 12.,Our Solar System is within the Milky Way galaxy. Alternative 12.,0
+The square root of 144 is 12. Variation 12.,Twelve is the square root of one hundred forty-four. Alternative 12.,0
+Oxygen is essential for human survival. Variation 12.,Humans need oxygen to survive. Alternative 12.,0
+DNA carries genetic information in living organisms. Variation 12.,The genetic code in organisms is stored in DNA. Alternative 12.,0
+The speed of sound varies depending on the medium it travels through. Variation 12.,Sound's speed changes with the medium it moves through. Alternative 12.,0
+The United Nations was founded in 1945 to promote international peace. Variation 12.,International peace efforts led to the founding of the UN in 1945. Alternative 12.,0
+"Rainbows form due to the refraction, dispersion, and reflection of light in water droplets. Variation 12.",Light bends and splits in raindrops to create rainbows. Alternative 12.,0
+The Great Wall of China was built to protect against invasions. Variation 13.,China's Great Wall was constructed to defend against invasions. Alternative 13.,1
+Photosynthesis is the process by which green plants produce their own food using sunlight. Variation 13.,Green plants use sunlight to create their food through photosynthesis. Alternative 13.,1
+"Shakespeare wrote many famous plays, including Hamlet and Othello. Variation 13.",Among Shakespeare's well-known works are Othello and Hamlet. Alternative 13.,1
+Albert Einstein developed the theory of relativity. Variation 13.,The theory of relativity was formulated by Albert Einstein. Alternative 13.,1
+The Pacific Ocean is the largest ocean on Earth. Variation 13.,Earth's biggest ocean is the Pacific. Alternative 13.,1
+Electricity is essential for modern life. Variation 13.,"In today's world, electricity is a necessity. Alternative 13.",1
+Mount Everest is the highest mountain in the world. Variation 13.,The tallest mountain on the planet is Mount Everest. Alternative 13.,1
+Gravity is the force that pulls objects toward the center of the Earth. Variation 13.,Objects are pulled toward Earth's center due to gravity. Alternative 13.,1
+Isaac Newton formulated the laws of motion and universal gravitation. Variation 13.,The principles of motion and gravity were established by Newton. Alternative 13.,1
+Leonardo da Vinci painted the Mona Lisa. Variation 13.,The Mona Lisa was painted by Leonardo da Vinci. Alternative 13.,1
+The Eiffel Tower is a famous landmark in Paris. Variation 13.,Paris is home to the well-known Eiffel Tower. Alternative 13.,1
+"The speed of light in a vacuum is approximately 299,792 kilometers per second. Variation 13.","In a vacuum, light travels at roughly 299,792 km per second. Alternative 13.",1
+The Amazon Rainforest is known for its vast biodiversity. Variation 13.,The Amazon is famous for its rich variety of species. Alternative 13.,1
+Thomas Edison invented the phonograph. Variation 13.,The phonograph was invented by Thomas Edison. Alternative 13.,1
+Bananas are rich in potassium and provide a quick source of energy. Variation 13.,A good source of potassium and energy is found in bananas. Alternative 13.,1
+A day on Mars lasts approximately 24.6 hours. Variation 13.,Mars has a day length of about 24.6 hours. Alternative 13.,1
+"The first manned moon landing was in 1969, conducted by NASA. Variation 13.",NASA's 1969 mission marked the first human landing on the moon. Alternative 13.,1
+The Pyramids of Giza are one of the Seven Wonders of the Ancient World. Variation 13.,One of the ancient Seven Wonders includes the Giza Pyramids. Alternative 13.,1
+A solar eclipse occurs when the Moon passes between the Earth and the Sun. Variation 13.,"When the Moon blocks the Sun from Earth, a solar eclipse happens. Alternative 13.",1
+The Statue of Liberty was a gift from France to the United States. Variation 13.,France presented the U.S. with the Statue of Liberty as a gift. Alternative 13.,1
+The Sahara Desert is the largest hot desert in the world. Variation 13.,The biggest hot desert on Earth is the Sahara. Alternative 13.,1
+The human body has 206 bones. Variation 13.,There are 206 bones in the human skeletal system. Alternative 13.,1
+William Shakespeare was an English playwright and poet. Variation 13.,"Shakespeare, the English poet and playwright, was renowned worldwide. Alternative 13.",1
+The Wright brothers built and flew the first successful airplane. Variation 13.,The first powered flight was achieved by the Wright brothers. Alternative 13.,1
+The capital of Japan is Tokyo. Variation 13.,Tokyo is the capital city of Japan. Alternative 13.,0
+Water boils at 100 degrees Celsius under standard atmospheric pressure. Variation 13.,"At standard pressure, water reaches its boiling point at 100°C. Alternative 13.",0
+The internet has revolutionized global communication. Variation 13.,The way people communicate globally has changed due to the internet. Alternative 13.,0
+The human brain controls all bodily functions. Variation 13.,Bodily functions are regulated by the human brain. Alternative 13.,0
+Gold is a highly valuable and conductive metal. Variation 13.,A highly conductive and valuable metal is gold. Alternative 13.,0
+Renewable energy sources help reduce carbon emissions. Variation 13.,Using renewable sources lowers carbon footprints. Alternative 13.,0
+Mathematics is the foundation of many scientific disciplines. Variation 13.,Many sciences are based on mathematics. Alternative 13.,0
+Healthy eating and regular exercise contribute to overall well-being. Variation 13.,Maintaining health involves diet and exercise. Alternative 13.,0
+Jupiter is the largest planet in our solar system. Variation 13.,The biggest planet in the solar system is Jupiter. Alternative 13.,0
+"A balanced diet includes proteins, carbohydrates, and healthy fats. Variation 13.","Proteins, carbs, and fats make up a balanced diet. Alternative 13.",0
+Venus is the hottest planet in the solar system. Variation 13.,The highest temperatures in the solar system are found on Venus. Alternative 13.,0
+Neil Armstrong was the first person to walk on the Moon. Variation 13.,The first human to step onto the Moon was Neil Armstrong. Alternative 13.,0
+Photosynthesis converts carbon dioxide and water into glucose and oxygen. Variation 13.,"Through photosynthesis, water and CO2 turn into glucose and oxygen. Alternative 13.",0
+The Milky Way is the galaxy that contains our Solar System. Variation 13.,Our Solar System is within the Milky Way galaxy. Alternative 13.,0
+The square root of 144 is 12. Variation 13.,Twelve is the square root of one hundred forty-four. Alternative 13.,0
+Oxygen is essential for human survival. Variation 13.,Humans need oxygen to survive. Alternative 13.,0
+DNA carries genetic information in living organisms. Variation 13.,The genetic code in organisms is stored in DNA. Alternative 13.,0
+The speed of sound varies depending on the medium it travels through. Variation 13.,Sound's speed changes with the medium it moves through. Alternative 13.,0
+The United Nations was founded in 1945 to promote international peace. Variation 13.,International peace efforts led to the founding of the UN in 1945. Alternative 13.,0
+"Rainbows form due to the refraction, dispersion, and reflection of light in water droplets. Variation 13.",Light bends and splits in raindrops to create rainbows. Alternative 13.,0
+The Great Wall of China was built to protect against invasions. Variation 14.,China's Great Wall was constructed to defend against invasions. Alternative 14.,1
+Photosynthesis is the process by which green plants produce their own food using sunlight. Variation 14.,Green plants use sunlight to create their food through photosynthesis. Alternative 14.,1
+"Shakespeare wrote many famous plays, including Hamlet and Othello. Variation 14.",Among Shakespeare's well-known works are Othello and Hamlet. Alternative 14.,1
+Albert Einstein developed the theory of relativity. Variation 14.,The theory of relativity was formulated by Albert Einstein. Alternative 14.,1
+The Pacific Ocean is the largest ocean on Earth. Variation 14.,Earth's biggest ocean is the Pacific. Alternative 14.,1
+Electricity is essential for modern life. Variation 14.,"In today's world, electricity is a necessity. Alternative 14.",1
+Mount Everest is the highest mountain in the world. Variation 14.,The tallest mountain on the planet is Mount Everest. Alternative 14.,1
+Gravity is the force that pulls objects toward the center of the Earth. Variation 14.,Objects are pulled toward Earth's center due to gravity. Alternative 14.,1
+Isaac Newton formulated the laws of motion and universal gravitation. Variation 14.,The principles of motion and gravity were established by Newton. Alternative 14.,1
+Leonardo da Vinci painted the Mona Lisa. Variation 14.,The Mona Lisa was painted by Leonardo da Vinci. Alternative 14.,1
+The Eiffel Tower is a famous landmark in Paris. Variation 14.,Paris is home to the well-known Eiffel Tower. Alternative 14.,1
+"The speed of light in a vacuum is approximately 299,792 kilometers per second. Variation 14.","In a vacuum, light travels at roughly 299,792 km per second. Alternative 14.",1
+The Amazon Rainforest is known for its vast biodiversity. Variation 14.,The Amazon is famous for its rich variety of species. Alternative 14.,1
+Thomas Edison invented the phonograph. Variation 14.,The phonograph was invented by Thomas Edison. Alternative 14.,1
+Bananas are rich in potassium and provide a quick source of energy. Variation 14.,A good source of potassium and energy is found in bananas. Alternative 14.,1
+A day on Mars lasts approximately 24.6 hours. Variation 14.,Mars has a day length of about 24.6 hours. Alternative 14.,1
+"The first manned moon landing was in 1969, conducted by NASA. Variation 14.",NASA's 1969 mission marked the first human landing on the moon. Alternative 14.,1
+The Pyramids of Giza are one of the Seven Wonders of the Ancient World. Variation 14.,One of the ancient Seven Wonders includes the Giza Pyramids. Alternative 14.,1
+A solar eclipse occurs when the Moon passes between the Earth and the Sun. Variation 14.,"When the Moon blocks the Sun from Earth, a solar eclipse happens. Alternative 14.",1
+The Statue of Liberty was a gift from France to the United States. Variation 14.,France presented the U.S. with the Statue of Liberty as a gift. Alternative 14.,1
+The Sahara Desert is the largest hot desert in the world. Variation 14.,The biggest hot desert on Earth is the Sahara. Alternative 14.,1
+The human body has 206 bones. Variation 14.,There are 206 bones in the human skeletal system. Alternative 14.,1
+William Shakespeare was an English playwright and poet. Variation 14.,"Shakespeare, the English poet and playwright, was renowned worldwide. Alternative 14.",1
+The Wright brothers built and flew the first successful airplane. Variation 14.,The first powered flight was achieved by the Wright brothers. Alternative 14.,1
+The capital of Japan is Tokyo. Variation 14.,Tokyo is the capital city of Japan. Alternative 14.,0
+Water boils at 100 degrees Celsius under standard atmospheric pressure. Variation 14.,"At standard pressure, water reaches its boiling point at 100°C. Alternative 14.",0
+The internet has revolutionized global communication. Variation 14.,The way people communicate globally has changed due to the internet. Alternative 14.,0
+The human brain controls all bodily functions. Variation 14.,Bodily functions are regulated by the human brain. Alternative 14.,0
+Gold is a highly valuable and conductive metal. Variation 14.,A highly conductive and valuable metal is gold. Alternative 14.,0
+Renewable energy sources help reduce carbon emissions. Variation 14.,Using renewable sources lowers carbon footprints. Alternative 14.,0
+Mathematics is the foundation of many scientific disciplines. Variation 14.,Many sciences are based on mathematics. Alternative 14.,0
+Healthy eating and regular exercise contribute to overall well-being. Variation 14.,Maintaining health involves diet and exercise. Alternative 14.,0
+Jupiter is the largest planet in our solar system. Variation 14.,The biggest planet in the solar system is Jupiter. Alternative 14.,0
+"A balanced diet includes proteins, carbohydrates, and healthy fats. Variation 14.","Proteins, carbs, and fats make up a balanced diet. Alternative 14.",0
+Venus is the hottest planet in the solar system. Variation 14.,The highest temperatures in the solar system are found on Venus. Alternative 14.,0
+Neil Armstrong was the first person to walk on the Moon. Variation 14.,The first human to step onto the Moon was Neil Armstrong. Alternative 14.,0
+Photosynthesis converts carbon dioxide and water into glucose and oxygen. Variation 14.,"Through photosynthesis, water and CO2 turn into glucose and oxygen. Alternative 14.",0
+The Milky Way is the galaxy that contains our Solar System. Variation 14.,Our Solar System is within the Milky Way galaxy. Alternative 14.,0
+The square root of 144 is 12. Variation 14.,Twelve is the square root of one hundred forty-four. Alternative 14.,0
+Oxygen is essential for human survival. Variation 14.,Humans need oxygen to survive. Alternative 14.,0
+DNA carries genetic information in living organisms. Variation 14.,The genetic code in organisms is stored in DNA. Alternative 14.,0
+The speed of sound varies depending on the medium it travels through. Variation 14.,Sound's speed changes with the medium it moves through. Alternative 14.,0
+The United Nations was founded in 1945 to promote international peace. Variation 14.,International peace efforts led to the founding of the UN in 1945. Alternative 14.,0
+"Rainbows form due to the refraction, dispersion, and reflection of light in water droplets. Variation 14.",Light bends and splits in raindrops to create rainbows. Alternative 14.,0
+The Great Wall of China was built to protect against invasions. Variation 15.,China's Great Wall was constructed to defend against invasions. Alternative 15.,1
+Photosynthesis is the process by which green plants produce their own food using sunlight. Variation 15.,Green plants use sunlight to create their food through photosynthesis. Alternative 15.,1
+"Shakespeare wrote many famous plays, including Hamlet and Othello. Variation 15.",Among Shakespeare's well-known works are Othello and Hamlet. Alternative 15.,1
+Albert Einstein developed the theory of relativity. Variation 15.,The theory of relativity was formulated by Albert Einstein. Alternative 15.,1
+The Pacific Ocean is the largest ocean on Earth. Variation 15.,Earth's biggest ocean is the Pacific. Alternative 15.,1
+Electricity is essential for modern life. Variation 15.,"In today's world, electricity is a necessity. Alternative 15.",1
+Mount Everest is the highest mountain in the world. Variation 15.,The tallest mountain on the planet is Mount Everest. Alternative 15.,1
+Gravity is the force that pulls objects toward the center of the Earth. Variation 15.,Objects are pulled toward Earth's center due to gravity. Alternative 15.,1
+Isaac Newton formulated the laws of motion and universal gravitation. Variation 15.,The principles of motion and gravity were established by Newton. Alternative 15.,1
+Leonardo da Vinci painted the Mona Lisa. Variation 15.,The Mona Lisa was painted by Leonardo da Vinci. Alternative 15.,1
+The Eiffel Tower is a famous landmark in Paris. Variation 15.,Paris is home to the well-known Eiffel Tower. Alternative 15.,1
+"The speed of light in a vacuum is approximately 299,792 kilometers per second. Variation 15.","In a vacuum, light travels at roughly 299,792 km per second. Alternative 15.",1
+The Amazon Rainforest is known for its vast biodiversity. Variation 15.,The Amazon is famous for its rich variety of species. Alternative 15.,1
+Thomas Edison invented the phonograph. Variation 15.,The phonograph was invented by Thomas Edison. Alternative 15.,1
+Bananas are rich in potassium and provide a quick source of energy. Variation 15.,A good source of potassium and energy is found in bananas. Alternative 15.,1
+A day on Mars lasts approximately 24.6 hours. Variation 15.,Mars has a day length of about 24.6 hours. Alternative 15.,1
+"The first manned moon landing was in 1969, conducted by NASA. Variation 15.",NASA's 1969 mission marked the first human landing on the moon. Alternative 15.,1
+The Pyramids of Giza are one of the Seven Wonders of the Ancient World. Variation 15.,One of the ancient Seven Wonders includes the Giza Pyramids. Alternative 15.,1
+A solar eclipse occurs when the Moon passes between the Earth and the Sun. Variation 15.,"When the Moon blocks the Sun from Earth, a solar eclipse happens. Alternative 15.",1
+The Statue of Liberty was a gift from France to the United States. Variation 15.,France presented the U.S. with the Statue of Liberty as a gift. Alternative 15.,1
+The Sahara Desert is the largest hot desert in the world. Variation 15.,The biggest hot desert on Earth is the Sahara. Alternative 15.,1
+The human body has 206 bones. Variation 15.,There are 206 bones in the human skeletal system. Alternative 15.,1
+William Shakespeare was an English playwright and poet. Variation 15.,"Shakespeare, the English poet and playwright, was renowned worldwide. Alternative 15.",1
+The Wright brothers built and flew the first successful airplane. Variation 15.,The first powered flight was achieved by the Wright brothers. Alternative 15.,1
+The capital of Japan is Tokyo. Variation 15.,Tokyo is the capital city of Japan. Alternative 15.,0
+Water boils at 100 degrees Celsius under standard atmospheric pressure. Variation 15.,"At standard pressure, water reaches its boiling point at 100°C. Alternative 15.",0
+The internet has revolutionized global communication. Variation 15.,The way people communicate globally has changed due to the internet. Alternative 15.,0
+The human brain controls all bodily functions. Variation 15.,Bodily functions are regulated by the human brain. Alternative 15.,0
+Gold is a highly valuable and conductive metal. Variation 15.,A highly conductive and valuable metal is gold. Alternative 15.,0
+Renewable energy sources help reduce carbon emissions. Variation 15.,Using renewable sources lowers carbon footprints. Alternative 15.,0
+Mathematics is the foundation of many scientific disciplines. Variation 15.,Many sciences are based on mathematics. Alternative 15.,0
+Healthy eating and regular exercise contribute to overall well-being. Variation 15.,Maintaining health involves diet and exercise. Alternative 15.,0
+Jupiter is the largest planet in our solar system. Variation 15.,The biggest planet in the solar system is Jupiter. Alternative 15.,0
+"A balanced diet includes proteins, carbohydrates, and healthy fats. Variation 15.","Proteins, carbs, and fats make up a balanced diet. Alternative 15.",0
+Venus is the hottest planet in the solar system. Variation 15.,The highest temperatures in the solar system are found on Venus. Alternative 15.,0
+Neil Armstrong was the first person to walk on the Moon. Variation 15.,The first human to step onto the Moon was Neil Armstrong. Alternative 15.,0
+Photosynthesis converts carbon dioxide and water into glucose and oxygen. Variation 15.,"Through photosynthesis, water and CO2 turn into glucose and oxygen. Alternative 15.",0
+The Milky Way is the galaxy that contains our Solar System. Variation 15.,Our Solar System is within the Milky Way galaxy. Alternative 15.,0
+The square root of 144 is 12. Variation 15.,Twelve is the square root of one hundred forty-four. Alternative 15.,0
+Oxygen is essential for human survival. Variation 15.,Humans need oxygen to survive. Alternative 15.,0
+DNA carries genetic information in living organisms. Variation 15.,The genetic code in organisms is stored in DNA. Alternative 15.,0
+The speed of sound varies depending on the medium it travels through. Variation 15.,Sound's speed changes with the medium it moves through. Alternative 15.,0
+The United Nations was founded in 1945 to promote international peace. Variation 15.,International peace efforts led to the founding of the UN in 1945. Alternative 15.,0
+"Rainbows form due to the refraction, dispersion, and reflection of light in water droplets. Variation 15.",Light bends and splits in raindrops to create rainbows. Alternative 15.,0
+The Great Wall of China was built to protect against invasions. Variation 16.,China's Great Wall was constructed to defend against invasions. Alternative 16.,1
+Photosynthesis is the process by which green plants produce their own food using sunlight. Variation 16.,Green plants use sunlight to create their food through photosynthesis. Alternative 16.,1
+"Shakespeare wrote many famous plays, including Hamlet and Othello. Variation 16.",Among Shakespeare's well-known works are Othello and Hamlet. Alternative 16.,1
+Albert Einstein developed the theory of relativity. Variation 16.,The theory of relativity was formulated by Albert Einstein. Alternative 16.,1
+The Pacific Ocean is the largest ocean on Earth. Variation 16.,Earth's biggest ocean is the Pacific. Alternative 16.,1
+Electricity is essential for modern life. Variation 16.,"In today's world, electricity is a necessity. Alternative 16.",1
+Mount Everest is the highest mountain in the world. Variation 16.,The tallest mountain on the planet is Mount Everest. Alternative 16.,1
+Gravity is the force that pulls objects toward the center of the Earth. Variation 16.,Objects are pulled toward Earth's center due to gravity. Alternative 16.,1
+Isaac Newton formulated the laws of motion and universal gravitation. Variation 16.,The principles of motion and gravity were established by Newton. Alternative 16.,1
+Leonardo da Vinci painted the Mona Lisa. Variation 16.,The Mona Lisa was painted by Leonardo da Vinci. Alternative 16.,1
+The Eiffel Tower is a famous landmark in Paris. Variation 16.,Paris is home to the well-known Eiffel Tower. Alternative 16.,1
+"The speed of light in a vacuum is approximately 299,792 kilometers per second. Variation 16.","In a vacuum, light travels at roughly 299,792 km per second. Alternative 16.",1
+The Amazon Rainforest is known for its vast biodiversity. Variation 16.,The Amazon is famous for its rich variety of species. Alternative 16.,1
+Thomas Edison invented the phonograph. Variation 16.,The phonograph was invented by Thomas Edison. Alternative 16.,1
+Bananas are rich in potassium and provide a quick source of energy. Variation 16.,A good source of potassium and energy is found in bananas. Alternative 16.,1
+A day on Mars lasts approximately 24.6 hours. Variation 16.,Mars has a day length of about 24.6 hours. Alternative 16.,1
+"The first manned moon landing was in 1969, conducted by NASA. Variation 16.",NASA's 1969 mission marked the first human landing on the moon. Alternative 16.,1
+The Pyramids of Giza are one of the Seven Wonders of the Ancient World. Variation 16.,One of the ancient Seven Wonders includes the Giza Pyramids. Alternative 16.,1
+A solar eclipse occurs when the Moon passes between the Earth and the Sun. Variation 16.,"When the Moon blocks the Sun from Earth, a solar eclipse happens. Alternative 16.",1
+The Statue of Liberty was a gift from France to the United States. Variation 16.,France presented the U.S. with the Statue of Liberty as a gift. Alternative 16.,1
+The Sahara Desert is the largest hot desert in the world. Variation 16.,The biggest hot desert on Earth is the Sahara. Alternative 16.,1
+The human body has 206 bones. Variation 16.,There are 206 bones in the human skeletal system. Alternative 16.,1
+William Shakespeare was an English playwright and poet. Variation 16.,"Shakespeare, the English poet and playwright, was renowned worldwide. Alternative 16.",1
+The Wright brothers built and flew the first successful airplane. Variation 16.,The first powered flight was achieved by the Wright brothers. Alternative 16.,1
+The capital of Japan is Tokyo. Variation 16.,Tokyo is the capital city of Japan. Alternative 16.,0
+Water boils at 100 degrees Celsius under standard atmospheric pressure. Variation 16.,"At standard pressure, water reaches its boiling point at 100°C. Alternative 16.",0
+The internet has revolutionized global communication. Variation 16.,The way people communicate globally has changed due to the internet. Alternative 16.,0
+The human brain controls all bodily functions. Variation 16.,Bodily functions are regulated by the human brain. Alternative 16.,0
+Gold is a highly valuable and conductive metal. Variation 16.,A highly conductive and valuable metal is gold. Alternative 16.,0
+Renewable energy sources help reduce carbon emissions. Variation 16.,Using renewable sources lowers carbon footprints. Alternative 16.,0
+Mathematics is the foundation of many scientific disciplines. Variation 16.,Many sciences are based on mathematics. Alternative 16.,0
+Healthy eating and regular exercise contribute to overall well-being. Variation 16.,Maintaining health involves diet and exercise. Alternative 16.,0
+Jupiter is the largest planet in our solar system. Variation 16.,The biggest planet in the solar system is Jupiter. Alternative 16.,0
+"A balanced diet includes proteins, carbohydrates, and healthy fats. Variation 16.","Proteins, carbs, and fats make up a balanced diet. Alternative 16.",0
+Venus is the hottest planet in the solar system. Variation 16.,The highest temperatures in the solar system are found on Venus. Alternative 16.,0
+Neil Armstrong was the first person to walk on the Moon. Variation 16.,The first human to step onto the Moon was Neil Armstrong. Alternative 16.,0
+Photosynthesis converts carbon dioxide and water into glucose and oxygen. Variation 16.,"Through photosynthesis, water and CO2 turn into glucose and oxygen. Alternative 16.",0
+The Milky Way is the galaxy that contains our Solar System. Variation 16.,Our Solar System is within the Milky Way galaxy. Alternative 16.,0
+The square root of 144 is 12. Variation 16.,Twelve is the square root of one hundred forty-four. Alternative 16.,0
+Oxygen is essential for human survival. Variation 16.,Humans need oxygen to survive. Alternative 16.,0
+DNA carries genetic information in living organisms. Variation 16.,The genetic code in organisms is stored in DNA. Alternative 16.,0
+The speed of sound varies depending on the medium it travels through. Variation 16.,Sound's speed changes with the medium it moves through. Alternative 16.,0
+The United Nations was founded in 1945 to promote international peace. Variation 16.,International peace efforts led to the founding of the UN in 1945. Alternative 16.,0
+"Rainbows form due to the refraction, dispersion, and reflection of light in water droplets. Variation 16.",Light bends and splits in raindrops to create rainbows. Alternative 16.,0
+The Great Wall of China was built to protect against invasions. Variation 17.,China's Great Wall was constructed to defend against invasions. Alternative 17.,1
+Photosynthesis is the process by which green plants produce their own food using sunlight. Variation 17.,Green plants use sunlight to create their food through photosynthesis. Alternative 17.,1
+"Shakespeare wrote many famous plays, including Hamlet and Othello. Variation 17.",Among Shakespeare's well-known works are Othello and Hamlet. Alternative 17.,1
+Albert Einstein developed the theory of relativity. Variation 17.,The theory of relativity was formulated by Albert Einstein. Alternative 17.,1
+The Pacific Ocean is the largest ocean on Earth. Variation 17.,Earth's biggest ocean is the Pacific. Alternative 17.,1
+Electricity is essential for modern life. Variation 17.,"In today's world, electricity is a necessity. Alternative 17.",1
+Mount Everest is the highest mountain in the world. Variation 17.,The tallest mountain on the planet is Mount Everest. Alternative 17.,1
+Gravity is the force that pulls objects toward the center of the Earth. Variation 17.,Objects are pulled toward Earth's center due to gravity. Alternative 17.,1
+Isaac Newton formulated the laws of motion and universal gravitation. Variation 17.,The principles of motion and gravity were established by Newton. Alternative 17.,1
+Leonardo da Vinci painted the Mona Lisa. Variation 17.,The Mona Lisa was painted by Leonardo da Vinci. Alternative 17.,1
+The Eiffel Tower is a famous landmark in Paris. Variation 17.,Paris is home to the well-known Eiffel Tower. Alternative 17.,1
+"The speed of light in a vacuum is approximately 299,792 kilometers per second. Variation 17.","In a vacuum, light travels at roughly 299,792 km per second. Alternative 17.",1
+The Amazon Rainforest is known for its vast biodiversity. Variation 17.,The Amazon is famous for its rich variety of species. Alternative 17.,1
+Thomas Edison invented the phonograph. Variation 17.,The phonograph was invented by Thomas Edison. Alternative 17.,1
+Bananas are rich in potassium and provide a quick source of energy. Variation 17.,A good source of potassium and energy is found in bananas. Alternative 17.,1
+A day on Mars lasts approximately 24.6 hours. Variation 17.,Mars has a day length of about 24.6 hours. Alternative 17.,1
+"The first manned moon landing was in 1969, conducted by NASA. Variation 17.",NASA's 1969 mission marked the first human landing on the moon. Alternative 17.,1
+The Pyramids of Giza are one of the Seven Wonders of the Ancient World. Variation 17.,One of the ancient Seven Wonders includes the Giza Pyramids. Alternative 17.,1
+A solar eclipse occurs when the Moon passes between the Earth and the Sun. Variation 17.,"When the Moon blocks the Sun from Earth, a solar eclipse happens. Alternative 17.",1
+The Statue of Liberty was a gift from France to the United States. Variation 17.,France presented the U.S. with the Statue of Liberty as a gift. Alternative 17.,1
+The Sahara Desert is the largest hot desert in the world. Variation 17.,The biggest hot desert on Earth is the Sahara. Alternative 17.,1
+The human body has 206 bones. Variation 17.,There are 206 bones in the human skeletal system. Alternative 17.,1
+William Shakespeare was an English playwright and poet. Variation 17.,"Shakespeare, the English poet and playwright, was renowned worldwide. Alternative 17.",1
+The Wright brothers built and flew the first successful airplane. Variation 17.,The first powered flight was achieved by the Wright brothers. Alternative 17.,1
+The capital of Japan is Tokyo. Variation 17.,Tokyo is the capital city of Japan. Alternative 17.,0
+Water boils at 100 degrees Celsius under standard atmospheric pressure. Variation 17.,"At standard pressure, water reaches its boiling point at 100°C. Alternative 17.",0
+The internet has revolutionized global communication. Variation 17.,The way people communicate globally has changed due to the internet. Alternative 17.,0
+The human brain controls all bodily functions. Variation 17.,Bodily functions are regulated by the human brain. Alternative 17.,0
+Gold is a highly valuable and conductive metal. Variation 17.,A highly conductive and valuable metal is gold. Alternative 17.,0
+Renewable energy sources help reduce carbon emissions. Variation 17.,Using renewable sources lowers carbon footprints. Alternative 17.,0
+Mathematics is the foundation of many scientific disciplines. Variation 17.,Many sciences are based on mathematics. Alternative 17.,0
+Healthy eating and regular exercise contribute to overall well-being. Variation 17.,Maintaining health involves diet and exercise. Alternative 17.,0
+Jupiter is the largest planet in our solar system. Variation 17.,The biggest planet in the solar system is Jupiter. Alternative 17.,0
+"A balanced diet includes proteins, carbohydrates, and healthy fats. Variation 17.","Proteins, carbs, and fats make up a balanced diet. Alternative 17.",0
+Venus is the hottest planet in the solar system. Variation 17.,The highest temperatures in the solar system are found on Venus. Alternative 17.,0
+Neil Armstrong was the first person to walk on the Moon. Variation 17.,The first human to step onto the Moon was Neil Armstrong. Alternative 17.,0
+Photosynthesis converts carbon dioxide and water into glucose and oxygen. Variation 17.,"Through photosynthesis, water and CO2 turn into glucose and oxygen. Alternative 17.",0
+The Milky Way is the galaxy that contains our Solar System. Variation 17.,Our Solar System is within the Milky Way galaxy. Alternative 17.,0
+The square root of 144 is 12. Variation 17.,Twelve is the square root of one hundred forty-four. Alternative 17.,0
+Oxygen is essential for human survival. Variation 17.,Humans need oxygen to survive. Alternative 17.,0
+DNA carries genetic information in living organisms. Variation 17.,The genetic code in organisms is stored in DNA. Alternative 17.,0
+The speed of sound varies depending on the medium it travels through. Variation 17.,Sound's speed changes with the medium it moves through. Alternative 17.,0
+The United Nations was founded in 1945 to promote international peace. Variation 17.,International peace efforts led to the founding of the UN in 1945. Alternative 17.,0
+"Rainbows form due to the refraction, dispersion, and reflection of light in water droplets. Variation 17.",Light bends and splits in raindrops to create rainbows. Alternative 17.,0
+The Great Wall of China was built to protect against invasions. Variation 18.,China's Great Wall was constructed to defend against invasions. Alternative 18.,1
+Photosynthesis is the process by which green plants produce their own food using sunlight. Variation 18.,Green plants use sunlight to create their food through photosynthesis. Alternative 18.,1
+"Shakespeare wrote many famous plays, including Hamlet and Othello. Variation 18.",Among Shakespeare's well-known works are Othello and Hamlet. Alternative 18.,1
+Albert Einstein developed the theory of relativity. Variation 18.,The theory of relativity was formulated by Albert Einstein. Alternative 18.,1
+The Pacific Ocean is the largest ocean on Earth. Variation 18.,Earth's biggest ocean is the Pacific. Alternative 18.,1
+Electricity is essential for modern life. Variation 18.,"In today's world, electricity is a necessity. Alternative 18.",1
+Mount Everest is the highest mountain in the world. Variation 18.,The tallest mountain on the planet is Mount Everest. Alternative 18.,1
+Gravity is the force that pulls objects toward the center of the Earth. Variation 18.,Objects are pulled toward Earth's center due to gravity. Alternative 18.,1
+Isaac Newton formulated the laws of motion and universal gravitation. Variation 18.,The principles of motion and gravity were established by Newton. Alternative 18.,1
+Leonardo da Vinci painted the Mona Lisa. Variation 18.,The Mona Lisa was painted by Leonardo da Vinci. Alternative 18.,1
+The Eiffel Tower is a famous landmark in Paris. Variation 18.,Paris is home to the well-known Eiffel Tower. Alternative 18.,1
+"The speed of light in a vacuum is approximately 299,792 kilometers per second. Variation 18.","In a vacuum, light travels at roughly 299,792 km per second. Alternative 18.",1
+The Amazon Rainforest is known for its vast biodiversity. Variation 18.,The Amazon is famous for its rich variety of species. Alternative 18.,1
+Thomas Edison invented the phonograph. Variation 18.,The phonograph was invented by Thomas Edison. Alternative 18.,1
+Bananas are rich in potassium and provide a quick source of energy. Variation 18.,A good source of potassium and energy is found in bananas. Alternative 18.,1
+A day on Mars lasts approximately 24.6 hours. Variation 18.,Mars has a day length of about 24.6 hours. Alternative 18.,1
+"The first manned moon landing was in 1969, conducted by NASA. Variation 18.",NASA's 1969 mission marked the first human landing on the moon. Alternative 18.,1
+The Pyramids of Giza are one of the Seven Wonders of the Ancient World. Variation 18.,One of the ancient Seven Wonders includes the Giza Pyramids. Alternative 18.,1
+A solar eclipse occurs when the Moon passes between the Earth and the Sun. Variation 18.,"When the Moon blocks the Sun from Earth, a solar eclipse happens. Alternative 18.",1
+The Statue of Liberty was a gift from France to the United States. Variation 18.,France presented the U.S. with the Statue of Liberty as a gift. Alternative 18.,1
+The Sahara Desert is the largest hot desert in the world. Variation 18.,The biggest hot desert on Earth is the Sahara. Alternative 18.,1
+The human body has 206 bones. Variation 18.,There are 206 bones in the human skeletal system. Alternative 18.,1
+William Shakespeare was an English playwright and poet. Variation 18.,"Shakespeare, the English poet and playwright, was renowned worldwide. Alternative 18.",1
+The Wright brothers built and flew the first successful airplane. Variation 18.,The first powered flight was achieved by the Wright brothers. Alternative 18.,1
+The capital of Japan is Tokyo. Variation 18.,Tokyo is the capital city of Japan. Alternative 18.,0
+Water boils at 100 degrees Celsius under standard atmospheric pressure. Variation 18.,"At standard pressure, water reaches its boiling point at 100°C. Alternative 18.",0
+The internet has revolutionized global communication. Variation 18.,The way people communicate globally has changed due to the internet. Alternative 18.,0
+The human brain controls all bodily functions. Variation 18.,Bodily functions are regulated by the human brain. Alternative 18.,0
+Gold is a highly valuable and conductive metal. Variation 18.,A highly conductive and valuable metal is gold. Alternative 18.,0
+Renewable energy sources help reduce carbon emissions. Variation 18.,Using renewable sources lowers carbon footprints. Alternative 18.,0
+Mathematics is the foundation of many scientific disciplines. Variation 18.,Many sciences are based on mathematics. Alternative 18.,0
+Healthy eating and regular exercise contribute to overall well-being. Variation 18.,Maintaining health involves diet and exercise. Alternative 18.,0
+Jupiter is the largest planet in our solar system. Variation 18.,The biggest planet in the solar system is Jupiter. Alternative 18.,0
+"A balanced diet includes proteins, carbohydrates, and healthy fats. Variation 18.","Proteins, carbs, and fats make up a balanced diet. Alternative 18.",0
+Venus is the hottest planet in the solar system. Variation 18.,The highest temperatures in the solar system are found on Venus. Alternative 18.,0
+Neil Armstrong was the first person to walk on the Moon. Variation 18.,The first human to step onto the Moon was Neil Armstrong. Alternative 18.,0
+Photosynthesis converts carbon dioxide and water into glucose and oxygen. Variation 18.,"Through photosynthesis, water and CO2 turn into glucose and oxygen. Alternative 18.",0
+The Milky Way is the galaxy that contains our Solar System. Variation 18.,Our Solar System is within the Milky Way galaxy. Alternative 18.,0
+The square root of 144 is 12. Variation 18.,Twelve is the square root of one hundred forty-four. Alternative 18.,0
+Oxygen is essential for human survival. Variation 18.,Humans need oxygen to survive. Alternative 18.,0
+DNA carries genetic information in living organisms. Variation 18.,The genetic code in organisms is stored in DNA. Alternative 18.,0
+The speed of sound varies depending on the medium it travels through. Variation 18.,Sound's speed changes with the medium it moves through. Alternative 18.,0
+The United Nations was founded in 1945 to promote international peace. Variation 18.,International peace efforts led to the founding of the UN in 1945. Alternative 18.,0
+"Rainbows form due to the refraction, dispersion, and reflection of light in water droplets. Variation 18.",Light bends and splits in raindrops to create rainbows. Alternative 18.,0
+The Great Wall of China was built to protect against invasions. Variation 19.,China's Great Wall was constructed to defend against invasions. Alternative 19.,1
+Photosynthesis is the process by which green plants produce their own food using sunlight. Variation 19.,Green plants use sunlight to create their food through photosynthesis. Alternative 19.,1
+"Shakespeare wrote many famous plays, including Hamlet and Othello. Variation 19.",Among Shakespeare's well-known works are Othello and Hamlet. Alternative 19.,1
+Albert Einstein developed the theory of relativity. Variation 19.,The theory of relativity was formulated by Albert Einstein. Alternative 19.,1
+The Pacific Ocean is the largest ocean on Earth. Variation 19.,Earth's biggest ocean is the Pacific. Alternative 19.,1
+Electricity is essential for modern life. Variation 19.,"In today's world, electricity is a necessity. Alternative 19.",1
+Mount Everest is the highest mountain in the world. Variation 19.,The tallest mountain on the planet is Mount Everest. Alternative 19.,1
+Gravity is the force that pulls objects toward the center of the Earth. Variation 19.,Objects are pulled toward Earth's center due to gravity. Alternative 19.,1
+Isaac Newton formulated the laws of motion and universal gravitation. Variation 19.,The principles of motion and gravity were established by Newton. Alternative 19.,1
+Leonardo da Vinci painted the Mona Lisa. Variation 19.,The Mona Lisa was painted by Leonardo da Vinci. Alternative 19.,1
+The Eiffel Tower is a famous landmark in Paris. Variation 19.,Paris is home to the well-known Eiffel Tower. Alternative 19.,1
+"The speed of light in a vacuum is approximately 299,792 kilometers per second. Variation 19.","In a vacuum, light travels at roughly 299,792 km per second. Alternative 19.",1
+The Amazon Rainforest is known for its vast biodiversity. Variation 19.,The Amazon is famous for its rich variety of species. Alternative 19.,1
+Thomas Edison invented the phonograph. Variation 19.,The phonograph was invented by Thomas Edison. Alternative 19.,1
+Bananas are rich in potassium and provide a quick source of energy. Variation 19.,A good source of potassium and energy is found in bananas. Alternative 19.,1
+A day on Mars lasts approximately 24.6 hours. Variation 19.,Mars has a day length of about 24.6 hours. Alternative 19.,1
+"The first manned moon landing was in 1969, conducted by NASA. Variation 19.",NASA's 1969 mission marked the first human landing on the moon. Alternative 19.,1
+The Pyramids of Giza are one of the Seven Wonders of the Ancient World. Variation 19.,One of the ancient Seven Wonders includes the Giza Pyramids. Alternative 19.,1
+A solar eclipse occurs when the Moon passes between the Earth and the Sun. Variation 19.,"When the Moon blocks the Sun from Earth, a solar eclipse happens. Alternative 19.",1
+The Statue of Liberty was a gift from France to the United States. Variation 19.,France presented the U.S. with the Statue of Liberty as a gift. Alternative 19.,1
+The Sahara Desert is the largest hot desert in the world. Variation 19.,The biggest hot desert on Earth is the Sahara. Alternative 19.,1
+The human body has 206 bones. Variation 19.,There are 206 bones in the human skeletal system. Alternative 19.,1
+William Shakespeare was an English playwright and poet. Variation 19.,"Shakespeare, the English poet and playwright, was renowned worldwide. Alternative 19.",1
+The Wright brothers built and flew the first successful airplane. Variation 19.,The first powered flight was achieved by the Wright brothers. Alternative 19.,1
+The capital of Japan is Tokyo. Variation 19.,Tokyo is the capital city of Japan. Alternative 19.,0
+Water boils at 100 degrees Celsius under standard atmospheric pressure. Variation 19.,"At standard pressure, water reaches its boiling point at 100°C. Alternative 19.",0
+The internet has revolutionized global communication. Variation 19.,The way people communicate globally has changed due to the internet. Alternative 19.,0
+The human brain controls all bodily functions. Variation 19.,Bodily functions are regulated by the human brain. Alternative 19.,0
+Gold is a highly valuable and conductive metal. Variation 19.,A highly conductive and valuable metal is gold. Alternative 19.,0
+Renewable energy sources help reduce carbon emissions. Variation 19.,Using renewable sources lowers carbon footprints. Alternative 19.,0
+Mathematics is the foundation of many scientific disciplines. Variation 19.,Many sciences are based on mathematics. Alternative 19.,0
+Healthy eating and regular exercise contribute to overall well-being. Variation 19.,Maintaining health involves diet and exercise. Alternative 19.,0
+Jupiter is the largest planet in our solar system. Variation 19.,The biggest planet in the solar system is Jupiter. Alternative 19.,0
+"A balanced diet includes proteins, carbohydrates, and healthy fats. Variation 19.","Proteins, carbs, and fats make up a balanced diet. Alternative 19.",0
+Venus is the hottest planet in the solar system. Variation 19.,The highest temperatures in the solar system are found on Venus. Alternative 19.,0
+Neil Armstrong was the first person to walk on the Moon. Variation 19.,The first human to step onto the Moon was Neil Armstrong. Alternative 19.,0
+Photosynthesis converts carbon dioxide and water into glucose and oxygen. Variation 19.,"Through photosynthesis, water and CO2 turn into glucose and oxygen. Alternative 19.",0
+The Milky Way is the galaxy that contains our Solar System. Variation 19.,Our Solar System is within the Milky Way galaxy. Alternative 19.,0
+The square root of 144 is 12. Variation 19.,Twelve is the square root of one hundred forty-four. Alternative 19.,0
+Oxygen is essential for human survival. Variation 19.,Humans need oxygen to survive. Alternative 19.,0
+DNA carries genetic information in living organisms. Variation 19.,The genetic code in organisms is stored in DNA. Alternative 19.,0
+The speed of sound varies depending on the medium it travels through. Variation 19.,Sound's speed changes with the medium it moves through. Alternative 19.,0
+The United Nations was founded in 1945 to promote international peace. Variation 19.,International peace efforts led to the founding of the UN in 1945. Alternative 19.,0
+"Rainbows form due to the refraction, dispersion, and reflection of light in water droplets. Variation 19.",Light bends and splits in raindrops to create rainbows. Alternative 19.,0
+The Great Wall of China was built to protect against invasions. Variation 20.,China's Great Wall was constructed to defend against invasions. Alternative 20.,1
+Photosynthesis is the process by which green plants produce their own food using sunlight. Variation 20.,Green plants use sunlight to create their food through photosynthesis. Alternative 20.,1
+"Shakespeare wrote many famous plays, including Hamlet and Othello. Variation 20.",Among Shakespeare's well-known works are Othello and Hamlet. Alternative 20.,1
+Albert Einstein developed the theory of relativity. Variation 20.,The theory of relativity was formulated by Albert Einstein. Alternative 20.,1
+The Pacific Ocean is the largest ocean on Earth. Variation 20.,Earth's biggest ocean is the Pacific. Alternative 20.,1
+Electricity is essential for modern life. Variation 20.,"In today's world, electricity is a necessity. Alternative 20.",1
+Mount Everest is the highest mountain in the world. Variation 20.,The tallest mountain on the planet is Mount Everest. Alternative 20.,1
+Gravity is the force that pulls objects toward the center of the Earth. Variation 20.,Objects are pulled toward Earth's center due to gravity. Alternative 20.,1
+Isaac Newton formulated the laws of motion and universal gravitation. Variation 20.,The principles of motion and gravity were established by Newton. Alternative 20.,1
+Leonardo da Vinci painted the Mona Lisa. Variation 20.,The Mona Lisa was painted by Leonardo da Vinci. Alternative 20.,1
+The Eiffel Tower is a famous landmark in Paris. Variation 20.,Paris is home to the well-known Eiffel Tower. Alternative 20.,1
+"The speed of light in a vacuum is approximately 299,792 kilometers per second. Variation 20.","In a vacuum, light travels at roughly 299,792 km per second. Alternative 20.",1
+The Amazon Rainforest is known for its vast biodiversity. Variation 20.,The Amazon is famous for its rich variety of species. Alternative 20.,1
+Thomas Edison invented the phonograph. Variation 20.,The phonograph was invented by Thomas Edison. Alternative 20.,1
+Bananas are rich in potassium and provide a quick source of energy. Variation 20.,A good source of potassium and energy is found in bananas. Alternative 20.,1
+A day on Mars lasts approximately 24.6 hours. Variation 20.,Mars has a day length of about 24.6 hours. Alternative 20.,1
+"The first manned moon landing was in 1969, conducted by NASA. Variation 20.",NASA's 1969 mission marked the first human landing on the moon. Alternative 20.,1
+The Pyramids of Giza are one of the Seven Wonders of the Ancient World. Variation 20.,One of the ancient Seven Wonders includes the Giza Pyramids. Alternative 20.,1
+A solar eclipse occurs when the Moon passes between the Earth and the Sun. Variation 20.,"When the Moon blocks the Sun from Earth, a solar eclipse happens. Alternative 20.",1
+The Statue of Liberty was a gift from France to the United States. Variation 20.,France presented the U.S. with the Statue of Liberty as a gift. Alternative 20.,1
+The Sahara Desert is the largest hot desert in the world. Variation 20.,The biggest hot desert on Earth is the Sahara. Alternative 20.,1
+The human body has 206 bones. Variation 20.,There are 206 bones in the human skeletal system. Alternative 20.,1
+William Shakespeare was an English playwright and poet. Variation 20.,"Shakespeare, the English poet and playwright, was renowned worldwide. Alternative 20.",1
+The Wright brothers built and flew the first successful airplane. Variation 20.,The first powered flight was achieved by the Wright brothers. Alternative 20.,1
+The capital of Japan is Tokyo. Variation 20.,Tokyo is the capital city of Japan. Alternative 20.,0
+Water boils at 100 degrees Celsius under standard atmospheric pressure. Variation 20.,"At standard pressure, water reaches its boiling point at 100°C. Alternative 20.",0
+The internet has revolutionized global communication. Variation 20.,The way people communicate globally has changed due to the internet. Alternative 20.,0
+The human brain controls all bodily functions. Variation 20.,Bodily functions are regulated by the human brain. Alternative 20.,0
+Gold is a highly valuable and conductive metal. Variation 20.,A highly conductive and valuable metal is gold. Alternative 20.,0
+Renewable energy sources help reduce carbon emissions. Variation 20.,Using renewable sources lowers carbon footprints. Alternative 20.,0
+Mathematics is the foundation of many scientific disciplines. Variation 20.,Many sciences are based on mathematics. Alternative 20.,0
+Healthy eating and regular exercise contribute to overall well-being. Variation 20.,Maintaining health involves diet and exercise. Alternative 20.,0
+Jupiter is the largest planet in our solar system. Variation 20.,The biggest planet in the solar system is Jupiter. Alternative 20.,0
+"A balanced diet includes proteins, carbohydrates, and healthy fats. Variation 20.","Proteins, carbs, and fats make up a balanced diet. Alternative 20.",0
+Venus is the hottest planet in the solar system. Variation 20.,The highest temperatures in the solar system are found on Venus. Alternative 20.,0
+Neil Armstrong was the first person to walk on the Moon. Variation 20.,The first human to step onto the Moon was Neil Armstrong. Alternative 20.,0
+Photosynthesis converts carbon dioxide and water into glucose and oxygen. Variation 20.,"Through photosynthesis, water and CO2 turn into glucose and oxygen. Alternative 20.",0
+The Milky Way is the galaxy that contains our Solar System. Variation 20.,Our Solar System is within the Milky Way galaxy. Alternative 20.,0
+The square root of 144 is 12. Variation 20.,Twelve is the square root of one hundred forty-four. Alternative 20.,0
+Oxygen is essential for human survival. Variation 20.,Humans need oxygen to survive. Alternative 20.,0
+DNA carries genetic information in living organisms. Variation 20.,The genetic code in organisms is stored in DNA. Alternative 20.,0
+The speed of sound varies depending on the medium it travels through. Variation 20.,Sound's speed changes with the medium it moves through. Alternative 20.,0
+The United Nations was founded in 1945 to promote international peace. Variation 20.,International peace efforts led to the founding of the UN in 1945. Alternative 20.,0
+"Rainbows form due to the refraction, dispersion, and reflection of light in water droplets. Variation 20.",Light bends and splits in raindrops to create rainbows. Alternative 20.,0
+
+
+

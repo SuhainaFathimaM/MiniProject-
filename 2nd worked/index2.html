@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Plagiarism Detector</title>
+    <style>
+        /* Styling similar to what you had before */
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <h1>Plagiarism Detector</h1>
+        <form action="/detect" method="post" enctype="multipart/form-data">
+            <textarea name="text" placeholder="Enter text here..."></textarea>
+            <br>
+            <input type="file" name="pdf" accept=".pdf" />
+            <br>
+            <input type="file" name="image" accept="image/*" />
+            <br>
+            <button type="submit">Check for Plagiarism</button>
+        </form>
+        {% if result %}
+        <div class="result">{{ result }}</div>
+        {% endif %}
+    </div>
+</body>
+
+</html>
